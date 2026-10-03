@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>المحاضرة | مسار</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@500;600;700;800;900&family=Tajawal:wght@400;500;700&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="animations.css">
+<link rel="stylesheet" href="responsive.css">
+</head>
+<body>
+<a class="skip-link" href="#main">تخطَّ إلى المحتوى</a>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="index.html" class="brand">
+      <span class="brand-mark"><i class="fa-solid fa-graduation-cap"></i></span>
+      <span class="brand-text"><span>مسار</span><span class="brand-sub">MASAR LEARNING</span></span>
+    </a>
+    <nav class="main-nav" aria-label="التنقل الرئيسي">
+      <a href="index.html"><i class="fa-solid fa-house"></i> الرئيسية</a>
+      <a href="sections.html"><i class="fa-solid fa-layer-group"></i> الأقسام</a>
+      <a href="quiz.html"><i class="fa-solid fa-clipboard-question"></i> الاختبارات</a>
+      <a href="languages.html"><i class="fa-solid fa-language"></i> اللغات</a>
+      <a href="about.html"><i class="fa-solid fa-circle-info"></i> عن المنصة</a>
+    </nav>
+    <div class="header-actions">
+      <button class="search-trigger" type="button" aria-label="بحث">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <span class="st-label">ابحث في المنصة...</span>
+        <kbd>Ctrl K</kbd>
+      </button>
+      <button class="btn-icon theme-toggle" type="button" aria-label="تبديل الوضع الليلي/النهاري">
+        <i class="fa-solid fa-sun icon-sun"></i>
+        <i class="fa-solid fa-moon icon-moon"></i>
+      </button>
+      <button class="nav-toggle" type="button" aria-label="فتح القائمة"><i class="fa-solid fa-bars"></i></button>
+    </div>
+  </div>
+</header>
+
+<div class="mobile-nav-drawer">
+  <a href="index.html"><i class="fa-solid fa-house"></i> الرئيسية</a>
+  <a href="sections.html"><i class="fa-solid fa-layer-group"></i> الأقسام</a>
+  <a href="quiz.html"><i class="fa-solid fa-clipboard-question"></i> الاختبارات</a>
+  <a href="languages.html"><i class="fa-solid fa-language"></i> اللغات</a>
+  <a href="about.html"><i class="fa-solid fa-circle-info"></i> عن المنصة</a>
+</div>
+
+<main id="main">
+<div id="lecturePageRoot">
+  <div class="breadcrumbs container"><ol></ol></div>
+  <div class="page-hero container">
+    <span class="eyebrow" id="lectureSub"><i class="fa-solid fa-book"></i></span>
+    <h1 id="lectureTitle">عنوان المحاضرة</h1>
+  </div>
+
+  <div class="container" style="padding-bottom:100px;" id="lectureShell">
+    <div class="lecture-shell">
+      <nav class="lecture-tabs" aria-label="أقسام المحاضرة">
+        <button class="lecture-tab-btn active" data-tab="content"><i class="fa-solid fa-file-lines"></i> المحتوى</button>
+        <button class="lecture-tab-btn" data-tab="vocabulary"><i class="fa-solid fa-spell-check"></i> المفردات</button>
+        <button class="lecture-tab-btn" data-tab="points"><i class="fa-solid fa-list-check"></i> أهم النقاط</button>
+        <button class="lecture-tab-btn" data-tab="pdf"><i class="fa-solid fa-file-pdf"></i> PDF مترجم</button>
+        <button class="lecture-tab-btn" data-tab="flashcards"><i class="fa-solid fa-layer-group"></i> بطاقات تعريفية</button>
+        <button class="lecture-tab-btn" data-tab="quiz"><i class="fa-solid fa-clipboard-question"></i> الاختبار</button>
+      </nav>
+
+      <div class="lecture-panels">
+        <section class="lecture-panel active" id="tabContentPanel">
+          <div class="panel-card">
+            <h3><i class="fa-solid fa-file-lines"></i> محتوى المحاضرة</h3>
+            <p class="lecture-text-content"></p>
+          </div>
+        </section>
+
+        <section class="lecture-panel" id="tabVocabularyPanel">
+          <div class="panel-card">
+            <h3><i class="fa-solid fa-spell-check"></i> المفردات والترجمة</h3>
+            <div id="vocabMount"></div>
+          </div>
+        </section>
+
+        <section class="lecture-panel" id="tabPointsPanel">
+          <div class="panel-card">
+            <h3><i class="fa-solid fa-list-check"></i> أهم النقاط</h3>
+            <div class="points-list" id="pointsList"></div>
+          </div>
+        </section>
+
+        <section class="lecture-panel" id="tabPdfPanel">
+          <div class="panel-card">
+            <h3><i class="fa-solid fa-file-pdf"></i> ملف PDF المترجم</h3>
+            <p class="lecture-text-content">حمّل أو افتح النسخة المترجمة الكاملة لهذه المحاضرة بصيغة PDF من Google Drive.</p>
+            <div class="pdf-box">
+              <div class="pdf-box-info">
+                <span class="pdf-icon"><i class="fa-solid fa-file-pdf"></i></span>
+                <div>
+                  <h4>ملف المحاضرة المترجم</h4>
+                  <p>يفتح في تبويب جديد عبر Google Drive</p>
+                </div>
+              </div>
+              <a class="btn btn-primary" id="pdfOpenBtn" href="#" target="_blank" rel="noopener">
+                <i class="fa-solid fa-arrow-up-right-from-square"></i> فتح PDF المترجم
+              </a>
+            </div>
+          </div>
+        </section>
+
+        <section class="lecture-panel" id="tabFlashcardsPanel">
+          <div class="panel-card">
+            <h3><i class="fa-solid fa-layer-group"></i> بطاقات تعريفية</h3>
+            <div id="flashcardsMount"></div>
+          </div>
+        </section>
+
+        <section class="lecture-panel" id="tabQuizPanel">
+          <div class="panel-card" style="text-align:center;">
+            <h3 style="justify-content:center;"><i class="fa-solid fa-clipboard-question"></i> اختبار المحاضرة</h3>
+            <p class="lecture-text-content" style="margin-bottom:22px;">
+              يحتوي هذا الاختبار على <span id="lectureQuizCount">0</span> أسئلة اختيار من متعدد لتقييم فهمك للمحاضرة.
+            </p>
+            <a class="btn btn-accent" id="lectureQuizBtn" href="#"><i class="fa-solid fa-play"></i> ابدأ الاختبار</a>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <div style="display:flex; justify-content:space-between; margin-top:34px; gap:14px; flex-wrap:wrap;">
+      <a class="btn btn-ghost" id="prevLectureBtn" href="#"><i class="fa-solid fa-arrow-right"></i> المحاضرة السابقة</a>
+      <a class="btn btn-ghost" id="nextLectureBtn" href="#" style="margin-inline-start:auto;">المحاضرة التالية <i class="fa-solid fa-arrow-left"></i></a>
+    </div>
+  </div>
+</div>
+</main>
+
+<!-- Loading Spinner -->
+<div id="page-loader">
+    <div class="loader-spinner"></div>
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom" style="border-top:none; padding-top:0;">
+      <span>© 2026 منصة مسار التعليمية. جميع الحقوق محفوظة.</span>
+      <a href="index.html" style="font-weight:700; color:var(--color-primary);">العودة للرئيسية</a>
+    </div>
+  </div>
+</footer>
+<script>
+    window.addEventListener('DOMContentLoaded', () => {
+        setTimeout(() => {
+            const loader = document.getElementById('page-loader');
+            if (loader) {
+                loader.style.opacity = '0';
+                loader.style.transition = 'opacity 0.3s ease';
+                setTimeout(() => loader.remove(), 300);
+            }
+        }, 300); // تختفي بعد 0.2 ثانية بضمان تام
+    });
+</script>
+<script src="data.js"></script>
+<script src="utils.js"></script>
+<script src="theme.js"></script>
+<script src="navigation.js"></script>
+<script src="search.js"></script>
+<script src="vocabulary.js"></script>
+<script src="flashcards.js"></script>
+<script src="lectures.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

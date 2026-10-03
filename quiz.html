@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>الاختبارات | مسار</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@500;600;700;800;900&family=Tajawal:wght@400;500;700&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="animations.css">
+<link rel="stylesheet" href="responsive.css">
+</head>
+<body>
+<a class="skip-link" href="#main">تخطَّ إلى المحتوى</a>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="index.html" class="brand">
+      <span class="brand-mark"><i class="fa-solid fa-graduation-cap"></i></span>
+      <span class="brand-text"><span>مسار</span><span class="brand-sub">MASAR LEARNING</span></span>
+    </a>
+    <nav class="main-nav" aria-label="التنقل الرئيسي">
+      <a href="index.html"><i class="fa-solid fa-house"></i> الرئيسية</a>
+      <a href="sections.html"><i class="fa-solid fa-layer-group"></i> الأقسام</a>
+      <a href="quiz.html"><i class="fa-solid fa-clipboard-question"></i> الاختبارات</a>
+      <a href="languages.html"><i class="fa-solid fa-language"></i> اللغات</a>
+      <a href="about.html"><i class="fa-solid fa-circle-info"></i> عن المنصة</a>
+    </nav>
+    <div class="header-actions">
+      <button class="search-trigger" type="button" aria-label="بحث">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <span class="st-label">ابحث في المنصة...</span>
+        <kbd>Ctrl K</kbd>
+      </button>
+      <button class="btn-icon theme-toggle" type="button" aria-label="تبديل الوضع الليلي/النهاري">
+        <i class="fa-solid fa-sun icon-sun"></i>
+        <i class="fa-solid fa-moon icon-moon"></i>
+      </button>
+      <button class="nav-toggle" type="button" aria-label="فتح القائمة"><i class="fa-solid fa-bars"></i></button>
+    </div>
+  </div>
+</header>
+
+<div class="mobile-nav-drawer">
+  <a href="index.html"><i class="fa-solid fa-house"></i> الرئيسية</a>
+  <a href="sections.html"><i class="fa-solid fa-layer-group"></i> الأقسام</a>
+  <a href="quiz.html"><i class="fa-solid fa-clipboard-question"></i> الاختبارات</a>
+  <a href="languages.html"><i class="fa-solid fa-language"></i> اللغات</a>
+  <a href="about.html"><i class="fa-solid fa-circle-info"></i> عن المنصة</a>
+</div>
+
+<main id="main">
+<div id="quizPageRoot">
+  <div class="breadcrumbs container"><ol></ol></div>
+  <div class="page-hero container">
+    <span class="eyebrow"><i class="fa-solid fa-clipboard-question"></i> اختبر نفسك</span>
+    <h1 id="quizTitle">الاختبارات</h1>
+    <p id="quizSub"></p>
+  </div>
+
+  <div class="container" style="padding-bottom:100px;">
+    <div id="quizPicker" class="empty-hidden"></div>
+    <div id="quizEngineMount" class="empty-hidden"></div>
+  </div>
+</div>
+</main>
+
+<!-- Loading Spinner -->
+<div id="page-loader">
+    <div class="loader-spinner"></div>
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom" style="border-top:none; padding-top:0;">
+      <span>© 2026 منصة مسار التعليمية. جميع الحقوق محفوظة.</span>
+      <a href="index.html" style="font-weight:700; color:var(--color-primary);">العودة للرئيسية</a>
+    </div>
+  </div>
+</footer>
+<script>
+    window.addEventListener('DOMContentLoaded', () => {
+        setTimeout(() => {
+            const loader = document.getElementById('page-loader');
+            if (loader) {
+                loader.style.opacity = '0';
+                loader.style.transition = 'opacity 0.3s ease';
+                setTimeout(() => loader.remove(), 300);
+            }
+        }, 300); // تختفي بعد 0.2 ثانية بضمان تام
+    });
+</script>
+<script src="data.js"></script>
+<script src="utils.js"></script>
+<script src="theme.js"></script>
+<script src="navigation.js"></script>
+<script src="search.js"></script>
+<script src="quiz.js"></script>
+<script src="quiz-page.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

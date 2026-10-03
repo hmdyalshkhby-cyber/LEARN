@@ -2281,6 +2281,30 @@ const platformData = {
                         "word": "Reliable",
                         "translation": "موثوق / جدير بالثقة",
                     },
+                                                                                                    {
+                        "word": "Mathematical operations",
+                        "translation": "العمليات الحسابية / العمليات الرياضية",
+                    },
+                                                                                                                        {
+                        "word": "Addition",
+                        "translation": "الجمع",
+                    },
+                                                                                                                        {
+                        "word": "Subtraction",
+                        "translation": "الطرح",
+                    },
+                                                                                                                                            {
+                        "word": "Multiplication",
+                        "translation": "الضرب",
+                    },
+                                                                                                                                            {
+                        "word": "Division",
+                        "translation": "القسمة",
+                    },
+                                                                                                                                            {
+                        "word": "Tourism entities",
+                        "translation": "الجهات أو المؤسسات السياحية",
+                    },
                 ],
                 "importantPoints": [
                     "Data Collection and Organization : Providing systematic methods for collecting data from various sources (questionnaires, interviews, records) and organizing them into tables or charts to facilitate analysis",
@@ -2320,536 +2344,896 @@ const platformData = {
                     // },
                 ],
                 "quiz": [
-                    {
-                        "question": "What is the precise scientific definition of statistics?",
+                                        {
+                        "question": " ........ data represent measurable quantities that can be expressed numerically.",
                         "options": [
-                            "The science concerned with methods of collecting, classifying, and summarizing data to make decisions under uncertainty and infer population characteristics from a sample",
-                            "The science that studies pure mathematical theories without needing real-world data",
-                            "The sole method used to predict global stock market prices",
-                            "The set of mathematical tables used to calculate simple arithmetic operations"
+                            "Qualitative",
+                            "Quantitative",
+                            "Primary",
+                            "Secondary"
+                        ],
+                        "correct": 1
+                    },
+                    {
+                        "question": " _______ data describe characteristics or attributes without using numbers",
+                        "options": [
+                            "Qualitative",
+                            "Quantitative",
+                            "Primary",
+                            "Secondary"
                         ],
                         "correct": 0
                     },
                     {
-                        "question": "What is the primary first step in the statistical process based on the given definitions?",
+                        "question": " _______ are facts and information obtained from measurements or observations",
                         "options": [
-                            "Data analysis",
-                            "Data organization and presentation",
-                            "Data collection",
-                            "Inference and decision-making"
-                        ],
-                        "correct": 2
-                    },
-                    {
-                        "question": "What is the purpose of the (Data Organization and Presentation) step in statistics?",
-                        "options": [
-                            "Predicting long-term future events",
-                            "Arranging collected data into specific tables and presenting them in suitable forms such as charts or frequency distributions",
-                            "Extracting general conclusions for the statistical population only",
-                            "Performing complex mathematical operations like linear regression"
-                        ],
-                        "correct": 1
-                    },
-                    {
-                        "question": "What is meant by (Statistical Inference) as one of the objectives of statistics?",
-                        "options": [
-                            "Collecting raw data exclusively from questionnaires",
-                            "Testing a population hypothesis using appropriate theory and using sample data to draw conclusions generalizable to the entire population",
-                            "Describing social phenomena using simple tables",
-                            "Calculating the arithmetic mean of sample data without generalization"
-                        ],
-                        "correct": 1
-                    },
-                    {
-                        "question": "What is the fundamental difference between descriptive statistics and inferential statistics?",
-                        "options": [
-                            "Descriptive statistics is used only in hotels, while inferential statistics is used in restaurants",
-                            "Inferential statistics uses no analytical methods while descriptive relies on computers",
-                            "There are no fundamental differences as they are completely synonymous",
-                            "Descriptive statistics condenses data moving from the whole to the part, while inferential statistics uses a sample to make decisions and judgments about a population"
+                            "Variables",
+                            "Information",
+                            "Knowledge",
+                            "Data"
                         ],
                         "correct": 3
                     },
                     {
-                        "question": "What is the origin and literal meaning of the term \"statistics\"?",
+                        "question": "Statistics offers accurate and reliable information for making informed decisions regarding investment in the tourism sector, developing tourism products and services, and directing marketing and sales efforts",
                         "options": [
-                            "Derived from the Greek word \"statis\", meaning \"economy or trade\"",
-                            "Derived from the Latin word \"status\", meaning \"state\" or \"political power\"",
-                            "Derived from the ancient Egyptian term \"stat\", meaning \"census or count\"",
-                            "Derived from the French word \"station\", meaning \"military camp\""
-                        ],
-                        "correct": 1
-                    },
-                    {
-                        "question": "Which of the following is an example of quantitative data from the text?",
-                        "options": [
-                            "Gender (male, female)",
-                            "Marital status (single, married)",
-                            "Number of tourists in a hotel during a month (250 tourists)",
-                            "Hotel type (five-star)"
-                        ],
-                        "correct": 2
-                    },
-                    {
-                        "question": "What do quantitative data represent?",
-                        "options": [
-                            "Subjective attributes and verbal categories",
-                            "Personal opinions and social preferences",
-                            "Non-numerical descriptions of gender and marital status",
-                            "Measurable quantities that can be expressed numerically"
-                        ],
-                        "correct": 3
-                    },
-                    {
-                        "question": "Which hotel classification attribute is classified as qualitative data in the text?",
-                        "options": [
-                            "Total annual hotel revenue in currency",
-                            "Daily hotel occupancy percentage (85%)",
-                            "Number of hotel rooms available (150 rooms)",
-                            "Hotel type (three-star, four-star, five-star)"
-                        ],
-                        "correct": 3
-                    },
-                    {
-                        "question": "Which of the following is an example of qualitative data mentioned in the document?",
-                        "options": [
-                            "Marital status (single, married, divorced, widowed)",
-                            "Room price (1,200 EGP per night)",
-                            "Number of tourists in a hotel (250 tourists)",
-                            "Guest's age (35 years)"
+                            "Decision-Making",
+                            "Data Analysis",
+                            "Market Research",
+                            "Strategic Planning"
                         ],
                         "correct": 0
                     },
                     {
-                        "question": "How are data generally defined in the context of statistics?",
+                        "question": "Statistics assists in identifying strengths and weaknesses in the tourism sector, proposing solutions to improve service quality, developing tourism infrastructure, and meeting the changing needs of tourists",
                         "options": [
-                            "As subjective opinions collected from interviews",
-                            "As theoretical formulas derived without observation",
-                            "As facts and information obtained from measurements or observations",
-                            "As government laws regulating business operations"
+                            "Forecasting Tourism Seasons",
+                            "Analyzing Tourist Behavior",
+                            "Planning and Development",
+                            "Measuring Financial"
                         ],
                         "correct": 2
                     },
                     {
-                        "question": "What are the specific indicators mentioned for measuring financial and operational performance in tourism?",
+                        "question": "Statistics provides data on occupancy rates, average length of stay, and hotel revenues, helping evaluate financial performance and make decisions related to pricing and promotion.",
                         "options": [
-                            "Occupancy rates, average spending, average length of stay, revenues, costs, and profitability rates",
-                            "Number of parking spaces, elevator speed, and lobby square footage",
-                            "Internet bandwidth speed and television channel availability",
-                            "Swimming pool volume and garden landscaping area"
-                        ],
-                        "correct": 0
-                    },
-                    {
-                        "question": "How do hotels and tourism entities prepare for peak seasons using forecasting?",
-                        "options": [
-                            "By doubling room prices without checking previous historical trends",
-                            "By closing hotels temporarily during high-demand months for maintenance",
-                            "By randomly hiring temporary staff right on the first day of the peak season",
-                            "By analyzing data from previous years to predict increased demand periods and prepare human and marketing resources"
-                        ],
-                        "correct": 3
-                    },
-                    {
-                        "question": "What kind of information does statistics offer for decision-making regarding investment and marketing in the tourism sector?",
-                        "options": [
-                            "Speculative and subjective opinions of local tour guides",
-                            "Accurate and reliable information",
-                            "General historical fiction and folklore stories",
-                            "Daily weather forecasts exclusively"
-                        ],
-                        "correct": 1
-                    },
-                    {
-                        "question": "In planning and development, what does statistics assist the tourism sector with?",
-                        "options": [
-                            "Identifying strengths and weaknesses, proposing solutions to improve service quality, and developing infrastructure",
-                            "Setting legal policies and issuing government passports",
-                            "Conducting architectural engineering blueprints for new hotels",
-                            "Training hotel personnel in foreign languages"
-                        ],
-                        "correct": 0
-                    },
-                    {
-                        "question": "Which hotel performance indicators are provided by statistics to help evaluate financial performance and make pricing and promotion decisions?",
-                        "options": [
-                            "Employee turnover rates and staff satisfaction scores",
-                            "Kitchen inventory levels and food waste percentages",
-                            "Occupancy rates, average length of stay, and hotel revenues",
-                            "Energy consumption and utility costs per floor"
+                            "Planning and Development ",
+                            "Data Analysis",
+                            "Measuring Hotel Performance",
+                            "Tourism Seasons and Demand"
                         ],
                         "correct": 2
                     },
                     {
-                        "question": "How does statistics help in understanding tourism movement?",
+                        "question": "Statistics helps track the movement of tourists (both domestic and international), identify tourism source markets, spending patterns, and the most frequent age groups, enabling stakeholders to develop effective marketing plans.",
                         "options": [
-                            "By regulating international airline ticket prices directly",
-                            "By managing hotel room housekeeping schedules",
-                            "By designing physical tourist attractions and theme parks",
-                            "By tracking domestic and international tourist movement, identifying source markets, spending, and frequent age groups to develop marketing plans"
-                        ],
-                        "correct": 3
-                    },
-                    {
-                        "question": "Which of the following best defines \"Data Collection\" as a step in the statistical process?",
-                        "options": [
-                            "Arranging the collected data into specific tables designed for this purpose and presenting them in suitable forms such as charts or graphs.",
-                            "Obtaining measurements or values from observations and experiments conducted by the researcher.",
-                            "Using various statistical methods to analyze collected data with the aim of describing phenomena under study.",
-                            "Drawing conclusions from the analysis in the form of estimates or predictions."
-                        ],
-                        "correct": 1
-                    },
-                    {
-                        "question": "Which of the following best defines \"Data Organization and Presentation\"?",
-                        "options": [
-                            "Obtaining raw measurements or values directly from experiments conducted in the field.",
-                            "Using various statistical methods to analyze data to describe phenomena under study.",
-                            "Testing population hypotheses according to an appropriate theory using sample data.",
-                            "Arranging the collected data into specific tables designed for this purpose and presenting them in suitable forms such as charts, graphs, or frequency distributions."
-                        ],
-                        "correct": 3
-                    },
-                    {
-                        "question": "Which of the following best defines \"Data Analysis\" within the statistical process?",
-                        "options": [
-                            "Obtaining initial measurements and values from observations and experiments.",
-                            "Arranging collected data into specific tables and presenting them in suitable graphical forms.",
-                            "Using various statistical methods to analyze the collected and presented data with the aim of describing the phenomena under study.",
-                            "Drawing conclusions from the analysis in the form of estimates or predictions."
-                        ],
-                        "correct": 2
-                    },
-                    {
-                        "question": "Which of the following best defines \"Decision-Making\" in the context of the statistical process steps?",
-                        "options": [
-                            "Drawing conclusions from the analysis in the form of estimates or predictions.",
-                            "Collecting raw measurements and values from experiments conducted by researchers.",
-                            "Presenting collected data in tabular or graphical forms like frequency distributions.",
-                            "Analyzing data using statistical methods solely to describe current phenomena without predicting outcomes."
+                            "Understanding Tourism Movement",
+                            "Operational Performance",
+                            "Market Research",
+                            "Strategic Planning"
                         ],
                         "correct": 0
                     },
                     {
-                        "question": "Which of the following best defines \"Statistical Inference\"?",
+                        "question": "includes statistical methods used to reach decisions, judgments, and conclusions about a population by using a sample drawn from it",
                         "options": [
-                            "The process of collecting raw data from questionnaires and interviews and organizing them into tables.",
-                            "The idea of testing a population hypothesis according to an appropriate theory, with the aim of using data from a sample to draw conclusions that can be generalized to the entire population.",
-                            "The presentation of social phenomena using descriptive measures that assist in understanding data spread.",
-                            "The direct counting of all elements in a population without utilizing any sample data."
+                            "Descriptive Statistics",
+                            "Inferential Statistics ",
+                            "Statistical Inference",
+                            "Prediction"
                         ],
                         "correct": 1
                     },
                     {
-                        "question": "Which of the following best defines \"Descriptive Statistics\"?",
+                        "question": " includes a set of statistical principles that help describe social phenomena, meaning descriptive measures that assist the researcher in presenting data in a way that is easy to understand It is the type of statistics that condenses a dataset into one or two pieces of information capable of representing all the data. In other words, it moves from the whole to the part",
                         "options": [
-                            "A branch that includes statistical methods used to reach decisions, judgments, and conclusions about a population using a sample.",
-                            "A method focused exclusively on testing hypotheses and predicting future economic trends without presenting data in tables.",
-                            "A technique used only for collecting raw observations through personal interviews and records.",
-                            "A set of statistical principles that help describe social phenomena, i.e., descriptive measures that assist the researcher in presenting data in a form that is easy to understand, interpret, and assess in terms of their spread in the original population."
+                           "Descriptive Statistics",
+                            "Inferential Statistics ",
+                            "Statistical Inference",
+                            "Prediction"
+                        ],
+                        "correct": 0
+                    },
+                    {
+                        "question": "One of the most important functions in scientific research, is based on the idea of testing a population hypothesis according to an appropriate theory",
+                        "options": [
+                            "Descriptive Statistics",
+                            "Inferential Statistics ",
+                            "Data Description",
+                            "Statistical Inference"
                         ],
                         "correct": 3
                     },
                     {
-                        "question": "Which of the following best defines \"Inferential Statistics\"?",
+                        "question": "ُRelies on the results of statistical inference by analyzing historical or current data using statistical measures and models, with the goal of anticipating future events",
                         "options": [
-                            "The literal translation of the Latin word status meaning political power.",
-                            "A method focused exclusively on testing hypotheses and predicting future economic trends without presenting data in tables.",
-                            "A technique used only for collecting raw observations through personal interviews and records.",
-                            "Statistical methods used to reach decisions, judgments, and conclusions about a population by using a sample drawn from it, involving techniques aimed at analyzing data to obtain results useful for decision-making."
+                            "Descriptive Statistics",
+                            "Inferential Statistics ",
+                            "Statistical Inference",
+                            "Prediction"
                         ],
                         "correct": 3
                     },
                     {
-            "question": "What is the precise scientific definition of statistics?",
-            "options": [
-                "The science concerned with methods of collecting, classifying, and summarizing data to make decisions under uncertainty and infer population characteristics from a sample",
-                "The science that studies pure mathematical theories without needing real-world data",
-                "The sole method used to predict global stock market prices",
-                "The set of mathematical tables used to calculate simple arithmetic operations"
-            ],
-            "correct": 0
-        },
-        {
-            "question": "What is the primary first step in the statistical process based on the given definitions?",
-            "options": [
-                "Data analysis",
-                "Data organization and presentation",
-                "Data collection",
-                "Inference and decision-making"
-            ],
-            "correct": 2
-        },
-        {
-            "question": "What is the purpose of the (Data Organization and Presentation) step in statistics?",
-            "options": [
-                "Predicting long-term future events",
-                "Arranging collected data into specific tables and presenting them in suitable forms such as charts or frequency distributions",
-                "Extracting general conclusions for the statistical population only",
-                "Performing complex mathematical operations like linear regression"
-            ],
-            "correct": 1
-        },
-        {
-            "question": "What is meant by (Statistical Inference) as one of the objectives of statistics?",
-            "options": [
-                "Collecting raw data exclusively from questionnaires",
-                "Testing a population hypothesis using appropriate theory and using sample data to draw conclusions generalizable to the entire population",
-                "Describing social phenomena using simple tables",
-                "Calculating the arithmetic mean of sample data without generalization"
-            ],
-            "correct": 1
-        },
-        {
-            "question": "What is the fundamental difference between descriptive statistics and inferential statistics?",
-            "options": [
-                "Descriptive statistics is used only in hotels, while inferential statistics is used in restaurants",
-                "Inferential statistics uses no analytical methods while descriptive relies on computers",
-                "There are no fundamental differences as they are completely synonymous",
-                "Descriptive statistics condenses data moving from the whole to the part, while inferential statistics uses a sample to make decisions and judgments about a population"
-            ],
-            "correct": 3
-        },
-        {
-            "question": "What is the origin and literal meaning of the term \"statistics\"?",
-            "options": [
-                "Derived from the Greek word \"statis\", meaning \"economy or trade\"",
-                "Derived from the Latin word \"status\", meaning \"state\" or \"political power\"",
-                "Derived from the ancient Egyptian term \"stat\", meaning \"census or count\"",
-                "Derived from the French word \"station\", meaning \"military camp\""
-            ],
-            "correct": 1
-        },
-        {
-            "question": "Which of the following is an example of quantitative data from the text?",
-            "options": [
-                "Gender (male, female)",
-                "Marital status (single, married)",
-                "Number of tourists in a hotel during a month (250 tourists)",
-                "Hotel type (five-star)"
-            ],
-            "correct": 2
-        },
-        {
-            "question": "What do quantitative data represent?",
-            "options": [
-                "Subjective attributes and verbal categories",
-                "Personal opinions and social preferences",
-                "Non-numerical descriptions of gender and marital status",
-                "Measurable quantities that can be expressed numerically"
-            ],
-            "correct": 3
-        },
-        {
-            "question": "Which hotel classification attribute is classified as qualitative data in the text?",
-            "options": [
-                "Total annual hotel revenue in currency",
-                "Daily hotel occupancy percentage (85%)",
-                "Number of hotel rooms available (150 rooms)",
-                "Hotel type (three-star, four-star, five-star)"
-            ],
-            "correct": 3
-        },
-        {
-            "question": "Which of the following is an example of qualitative data mentioned in the document?",
-            "options": [
-                "Marital status (single, married, divorced, widowed)",
-                "Room price (1,200 EGP per night)",
-                "Number of tourists in a hotel (250 tourists)",
-                "Guest's age (35 years)"
-            ],
-            "correct": 0
-        },
-        {
-            "question": "How are data generally defined in the context of statistics?",
-            "options": [
-                "As subjective opinions collected from interviews",
-                "As theoretical formulas derived without observation",
-                "As facts and information obtained from measurements or observations",
-                "As government laws regulating business operations"
-            ],
-            "correct": 2
-        },
-        {
-            "question": "What are the specific indicators mentioned for measuring financial and operational performance in tourism?",
-            "options": [
-                "Occupancy rates, average spending, average length of stay, revenues, costs, and profitability rates",
-                "Number of parking spaces, elevator speed, and lobby square footage",
-                "Internet bandwidth speed and television channel availability",
-                "Swimming pool volume and garden landscaping area"
-            ],
-            "correct": 0
-        },
-        {
-            "question": "How do hotels and tourism entities prepare for peak seasons using forecasting?",
-            "options": [
-                "By doubling room prices without checking previous historical trends",
-                "By closing hotels temporarily during high-demand months for maintenance",
-                "By randomly hiring temporary staff right on the first day of the peak season",
-                "By analyzing data from previous years to predict increased demand periods and prepare human and marketing resources"
-            ],
-            "correct": 3
-        },
-        {
-            "question": "What kind of information does statistics offer for decision-making regarding investment and marketing in the tourism sector?",
-            "options": [
-                "Speculative and subjective opinions of local tour guides",
-                "Accurate and reliable information",
-                "General historical fiction and folklore stories",
-                "Daily weather forecasts exclusively"
-            ],
-            "correct": 1
-        },
-        {
-            "question": "In planning and development, what does statistics assist the tourism sector with?",
-            "options": [
-                "Identifying strengths and weaknesses, proposing solutions to improve service quality, and developing infrastructure",
-                "Setting legal policies and issuing government passports",
-                "Conducting architectural engineering blueprints for new hotels",
-                "Training hotel personnel in foreign languages"
-            ],
-            "correct": 0
-        },
-        {
-            "question": "Which hotel performance indicators are provided by statistics to help evaluate financial performance and make pricing and promotion decisions?",
-            "options": [
-                "Employee turnover rates and staff satisfaction scores",
-                "Kitchen inventory levels and food waste percentages",
-                "Occupancy rates, average length of stay, and hotel revenues",
-                "Energy consumption and utility costs per floor"
-            ],
-            "correct": 2
-        },
-        {
-            "question": "How does statistics help in understanding tourism movement?",
-            "options": [
-                "By regulating international airline ticket prices directly",
-                "By managing hotel room housekeeping schedules",
-                "By designing physical tourist attractions and theme parks",
-                "By tracking domestic and international tourist movement, identifying source markets, spending, and frequent age groups to develop marketing plans"
-            ],
-            "correct": 3
-        },
-        {
-            "question": "Which of the following best defines \"Data Collection\" as a step in the statistical process?",
-            "options": [
-                "Arranging the collected data into specific tables designed for this purpose and presenting them in suitable forms such as charts or graphs.",
-                "Obtaining measurements or values from observations and experiments conducted by the researcher.",
-                "Using various statistical methods to analyze collected data with the aim of describing phenomena under study.",
-                "Drawing conclusions from the analysis in the form of estimates or predictions."
-            ],
-            "correct": 1
-        },
-        {
-            "question": "Which of the following best defines \"Data Organization and Presentation\"?",
-            "options": [
-                "Obtaining raw measurements or values directly from experiments conducted in the field.",
-                "Using various statistical methods to analyze data to describe phenomena under study.",
-                "Testing population hypotheses according to an appropriate theory using sample data.",
-                "Arranging the collected data into specific tables designed for this purpose and presenting them in suitable forms such as charts, graphs, or frequency distributions."
-            ],
-            "correct": 3
-        },
-        {
-            "question": "Which of the following best defines \"Data Analysis\" within the statistical process?",
-            "options": [
-                "Obtaining initial measurements and values from observations and experiments.",
-                "Arranging collected data into specific tables and presenting them in suitable graphical forms.",
-                "Using various statistical methods to analyze the collected and presented data with the aim of describing the phenomena under study.",
-                "Drawing conclusions from the analysis in the form of estimates or predictions."
-            ],
-            "correct": 2
-        },
-        {
-            "question": "Which of the following best defines \"Decision-Making\" in the context of the statistical process steps?",
-            "options": [
-                "Drawing conclusions from the analysis in the form of estimates or predictions.",
-                "Collecting raw measurements and values from experiments conducted by researchers.",
-                "Presenting collected data in tabular or graphical forms like frequency distributions.",
-                "Analyzing data using statistical methods solely to describe current phenomena without predicting outcomes."
-            ],
-            "correct": 0
-        },
-        {
-            "question": "Which of the following best defines \"Statistical Inference\"?",
-            "options": [
-                "The process of collecting raw data from questionnaires and interviews and organizing them into tables.",
-                "The idea of testing a population hypothesis according to an appropriate theory, with the aim of using data from a sample to draw conclusions that can be generalized to the entire population.",
-                "The presentation of social phenomena using descriptive measures that assist in understanding data spread.",
-                "The direct counting of all elements in a population without utilizing any sample data."
-            ],
-            "correct": 1
-        },
-        {
-            "question": "Which of the following best defines \"Descriptive Statistics\"?",
-            "options": [
-                "A branch that includes statistical methods used to reach decisions, judgments, and conclusions about a population using a sample.",
-                "A method focused exclusively on testing hypotheses and predicting future economic trends without presenting data in tables.",
-                "A technique used only for collecting raw observations through personal interviews and records.",
-                "A set of statistical principles that help describe social phenomena, i.e., descriptive measures that assist the researcher in presenting data in a form that is easy to understand, interpret, and assess in terms of their spread in the original population."
-            ],
-            "correct": 3
-        },
-        {
-            "question": "Which of the following best defines \"Inferential Statistics\"?",
-            "options": [
-                "The literal translation of the Latin word status meaning political power.",
-                "A method focused exclusively on testing hypotheses and predicting future economic trends without presenting data in tables.",
-                "A technique used only for collecting raw observations through personal interviews and records.",
-                "Statistical methods used to reach decisions, judgments, and conclusions about a population by using a sample drawn from it, involving techniques aimed at analyzing data to obtain results useful for decision-making."
-            ],
-            "correct": 3
-        },
-        {
-            "question": "Which of the following best defines \"Statistics\" based on its first definition in the text?",
-            "options": [
-                "The science concerned with methods of collecting, classifying, and summarizing data in a way that allows for their use in describing and analyzing information to make decisions under conditions of uncertainty.",
-                "The branch of mathematics that focuses purely on exact deterministic modeling and absolute calculations without uncertainty.",
-                "The historical study of political structures, governance systems, and military affairs of ancient empires.",
-                "The administrative method used exclusively for counting populations and collecting taxes in ancient Rome."
-            ],
-            "correct": 0
-        },
-        {
-            "question": "Which of the following is the second definition of \"Statistics\" provided in the document?",
-            "options": [
-                "A method concerned with collecting data about the features of objects, organizing and presenting them, analyzing them, drawing inferences, and making decisions based on them.",
-                "A computational framework used exclusively to predict macroeconomic trends and stock market fluctuations.",
-                "A collection of qualitative descriptions that categorize human behavior without any numerical calculations.",
-                "An experimental science focused on laboratory testing of physical objects and chemical properties."
-            ],
-            "correct": 0
-        },
-        {
-            "question": "Which of the following best defines \"Data\" in the context of basic concepts in statistics?",
-            "options": [
-                "Facts and information obtained from measurements or observations.",
-                "Theoretical assumptions created without any empirical observation or measurement.",
-                "Personal opinions and feelings expressed during open-ended unstructured interviews.",
-                "Mathematical formulas used exclusively for geometric calculations."
-            ],
-            "correct": 0
-        },
-        {
-            "question": "Which of the following best defines \"Qualitative Data\"?",
-            "options": [
-                "Data that represent measurable quantities that can be expressed numerically.",
-                "Data that describe features or attributes without using numbers, usually expressed in words or categories rather than numerical values.",
-                "Continuous numerical values obtained from physical laboratory measurements.",
-                "Financial figures representing hotel revenues, costs, and room prices in currency."
-            ],
-            "correct": 1
-        },
-        {
-            "question": "Which of the following best defines \"Quantitative Data\"?",
-            "options": [
-                "Data that describe features or attributes without using numbers or categories.",
-                "Data that represent measurable quantities that can be expressed numerically.",
-                "Subjective verbal descriptions of social phenomena and personal marital statuses.",
-                "Categorical attributes that use words instead of numerical values."
-            ],
-            "correct": 1
-        }
+                        "question": "This refers to the process of collecting, classifying, and summarizing data, which is one of the most important functions of statistics. Raw data cannot be directly used to describe various phenomena of interest",
+                        "options": [
+                            "Descriptive Statistics",
+                            "Inferential Statistics ",
+                            "Data Description",
+                            "Statistical Inference"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "Providing systematic methods for collecting data from various sources (questionnaires, interviews, records) and organizing them into tables or charts to facilitate analysis.",
+                        "options": [
+                            "Data Collection and Organization",
+                            "Descriptive Statistics",
+                            "Inferential Statistics ",
+                            "Statistical Inference"
+                        ],
+                        "correct": 0
+                    },
+                    {
+                        "question": "Drawing conclusions from the analysis in the form of estimates or prediction",
+                        "options": [
+                            "Inference and Decision-Making",
+                            "Descriptive Statistics",
+                            "Inferential Statistics ",
+                            "Data Collection"
+                        ],
+                        "correct": 0
+                    },
+                    {
+                        "question": "Obtaining measurements or values from observations and experiments conducted by the researcher.",
+                        "options": [
+                            "Data Collection",
+                            "Descriptive Statistics",
+                            "Inferential Statistics ",
+                            "Statistical Inference"
+                        ],
+                        "correct": 0
+                    },
+                    {
+                        "question": "Using various statistical methods to analyze the collected and presented data with the aim of describing the phenomena under study",
+                        "options": [
+                            "Descriptive Statistics",
+                            "Inferential Statistics ",
+                            "Data Analysis",
+                            "Statistical Inference"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "Arranging the collected data into specific tables designed for this purpose  and presenting them in suitable forms such as charts, graphs, or frequency distributions.",
+                        "options": [
+                            "Inference and Decision-Making",
+                            "Data Organization and Presentation",
+                            "Data Collection",
+                            "Statistical Inference"
+                        ],
+                        "correct": 1
+                    },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
+                    // {
+                    //     "question": "",
+                    //     "options": [
+                    //         "",
+                    //         "",
+                    //         "",
+                    //         ""
+                    //     ],
+                    //     "correct": 0
+                    // },
                 ]
             },
                 // {

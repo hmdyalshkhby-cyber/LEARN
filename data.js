@@ -894,89 +894,89 @@ const platformData = {
             "title": "الجودة في صناعة السياحة",
             "icon": "fa-solid fa-ranking-star",
             "lectures": [
-                // {
-                //     "id": 1,
-                //     "title": "المحاضرة 1: الأزمنة المستمرة",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"الأزمنة المستمرة\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section3_lecture1/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Essential",
-                //             "translation": "ضروري",
-                //             "example": "Water is essential for life."
-                //         },
-                //         {
-                //             "word": "Deadline",
-                //             "translation": "الموعد النهائي",
-                //             "example": "The deadline for the report is Friday."
-                //         },
-                //         {
-                //             "word": "Efficient",
-                //             "translation": "فعّال / كفؤ",
-                //             "example": "This method is more efficient."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب.",
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Essential",
-                //             "definition": "مصطلح متعلق بموضوع الأزمنة المستمرة يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "ضروري",
-                //             "example": "Water is essential for life."
-                //         },
-                //         {
-                //             "term": "Deadline",
-                //             "definition": "مفهوم أساسي ضمن درس الأزمنة المستمرة يساعد على الفهم العميق للموضوع.",
-                //             "translation": "الموعد النهائي",
-                //             "example": "The deadline for the report is Friday."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'الأزمنة المستمرة' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الأزمنة المستمرة'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'الأزمنة المستمرة'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الأزمنة المستمرة'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
+                {
+                    "id": 1,
+                    "title": "المحاضرة 1",
+                    // "content": "في هذه المحاضرة سنتناول موضوع \"الأزمنة المستمرة\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+                    "pdfUrl": "https://drive.google.com/file/d/1UITufd2gk9VNO97YagIalDDuNKc4fE6P/view?usp=drive_link",
+                    "vocabulary": [
+                        {
+                            "word": "Simultaneous",
+                            "translation": "متزامن / في نفس الوقت",
+                            "example": "The two activities happened simultaneously."
+                        },
+                        {
+                            "word": "Examined",
+                            "translation": "فَحَصَ / دَرَسَ / تَمَّ فَحْصُه",
+                            "example": "The data were examined carefully."
+                        },
+                        {
+                            "word": "Efficient",
+                            "translation": "فعّال / كفؤ",
+                            "example": "This method is more efficient."
+                        }
+                    // ],
+                    // "importantPoints": [
+                    //     "",
+                    //     ""
+                    ],
+                    "flashcards": [
+                        {
+                            "term": "Essential",
+                            "definition": "مصطلح متعلق بموضوع الأزمنة المستمرة يُستخدم في السياقات التعليمية والعملية.",
+                            "translation": "ضروري",
+                            "example": "Water is essential for life."
+                        },
+                        {
+                            "term": "Deadline",
+                            "definition": "مفهوم أساسي ضمن درس الأزمنة المستمرة يساعد على الفهم العميق للموضوع.",
+                            "translation": "الموعد النهائي",
+                            "example": "The deadline for the report is Friday."
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "ما هو المعنى الأصح لموضوع 'الأزمنة المستمرة' في هذا الدرس؟",
+                            "options": [
+                                "الإجابة الصحيحة والمرتبطة بالموضوع",
+                                "إجابة غير مرتبطة بالموضوع",
+                                "إجابة عامة غير دقيقة",
+                                "لا شيء مما سبق"
+                            ],
+                            "correct": 0
+                        },
+                        {
+                            "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الأزمنة المستمرة'؟",
+                            "options": [
+                                "الاستخدام الصحيح كما ورد في الشرح",
+                                "استخدام خاطئ شائع",
+                                "استخدام قديم غير مستعمل",
+                                "استخدام غير مرتبط"
+                            ],
+                            "correct": 0
+                        },
+                        {
+                            "question": "عند التطبيق العملي لدرس 'الأزمنة المستمرة'، ماذا يجب أن تفعل أولاً؟",
+                            "options": [
+                                "اتباع الخطوات كما وردت في الدرس",
+                                "تجاهل القاعدة الأساسية",
+                                "البدء بدون فهم الأساسيات",
+                                "حفظ الأمثلة فقط دون فهم"
+                            ],
+                            "correct": 0
+                        },
+                        {
+                            "question": "أي جملة تعكس بشكل صحيح فكرة 'الأزمنة المستمرة'؟",
+                            "options": [
+                                "الجملة التي تطبق القاعدة بشكل صحيح",
+                                "جملة تحتوي على خطأ واضح",
+                                "جملة غير مكتملة",
+                                "جملة بلغة أخرى تمامًا"
+                            ],
+                            "correct": 0
+                        }
+                    ]
+                },
                 // {
                 //     "id": 2,
                 //     "title": "المحاضرة 2: أزمنة الماضي",
@@ -5733,6 +5733,125 @@ const platformData = {
                 "title": "Italian",
                 "flag": "🇮🇹",
                 "quiz": [
+                ]
+            },
+            {
+                "id": 3,
+                "title": "English",
+                "flag": "EN",
+                "quiz": [
+                    // {"question": "At Luxor, the tourist is ………. ..to see for the first time high temples built of bulky stones without using any of the modern necessary tools we use in building our houses or any other foundations.", "options": ["surprised", "so sad", "surprising", "terribly afraid"], "correct": 0},
+                    // {"question": "Tourism is one of the primary………...of national income in any country.", "options": ["sources", "resources", "seasons", "sorrows"], "correct": 0},
+                    // {"question": "If someone gets into a town for the first time and suddenly finds out that s/he has been robbed of all the money s/he has got, what may s/he do?", "options": ["S/he may shout out: \"somebody finds me the one who has stolen my money.\"", "S/he may get crazy and cry deeply.", "S/he may accuse all citizens of the country of being thieves.", "S/he may feel so sad and go to any nearby police station for help."], "correct": 3},
+                    // {"question": "A good hotel shows from …………", "options": ["the way it looks from without.", "the way it appears from within.", "the kind of service and facilities it presents.", "all above things together."], "correct": 3},
+                    // {"question": "Egypt is one of the most beautiful countries in the world, which……… attractive to any visitor.", "options": ["looks", "looking", "has looked", "is being"], "correct": 0},
+                    // {"question": "Our schools' curricula urgently.....................................changing.", "options": ["needs", "need", "is needing", "were needed"], "correct": 1},
+                    // {"question": "If you meet anywhere someone whom you don't know, you may be shocked by his nice looking at you. What do you think of this one? Is s/he probably someone who…………?", "options": ["knows you, but you don't know him or her", "wants to rob you", "wants to kill you", "looks for help"], "correct": 0},
+                    // {"question": "When you turn on the shower in your room, the water may come out very………………..", "options": ["slowly.", "slow.", "slowness.", "quick."], "correct": 0},
+                    // {"question": "Whenever anybody does you a favor, he always expects you to………", "options": ["give him some money.", "thank him.", "talk with him for a while.", "thank you."], "correct": 1},
+                    // {"question": "Once T. S. Eliot said that \"Every traveler should..............................................\"", "options": ["take care of himself or herself.", "have much money to give foreigners some tips.", "sleep well before leaving home.", "take a train, but never take an airplane, as it is safer."], "correct": 0},
+                    // {"question": "Many farmers use ………. fertilizers to improve their crops and make much money, but disregard their impact on man's health.", "options": ["useful", "expensive", "harmful", "most recent"], "correct": 2},
+                    // {"question": "It is the national duty of every citizen in a country to…………... to it.", "options": ["to have to work hard", "take from it and never give", "have to sing", "have a deep sense of belonging"], "correct": 3},
+                    // {"question": "Many of the poor Egyptians often harass tourists from different foreign countries to give them some money or even talking with them forcibly, which indeed sounds……………", "options": ["very polite", "a mark of their being friendly", "a good sign of civility", "very impolite"], "correct": 3},
+                    // {"question": "William Shakespeare was a great British…………….…", "options": ["carpenter", "musician", "dramatist", "philosopher"], "correct": 2},
+                    // {"question": "Some of us may feel guilty ………..…….they come to hurt someone unintentionally.", "options": ["where", "when", "whose", "how"], "correct": 1},
+                    // {"question": "By midnight my brother still ....................... home.", "options": ["didn't come", "hasn't come", "hadn't come", "wasn't coming"], "correct": 2},
+                    // {"question": "They .......... their dinner until their father had come.", "options": ["didn't take", "haven't taken", "hadn't taken", "weren't taking"], "correct": 0},
+                    // {"question": "The doctor didn't do anything as the patient .................... when he arrived.", "options": ["died", "has died", "was died", "had died"], "correct": 3},
+                    // {"question": "I was not hungry because I .................... a lot of fruit.", "options": ["eat", "have eaten", "have been eating", "had eaten"], "correct": 3},
+                    // {"question": "I didn't find the pen as I ........................ it.", "options": ["lose", "had lost", "was lost", "had been lost"], "correct": 1},
+                    // {"question": "He....... a reporter before he became a businessman.", "options": ["has been", "had been", "would be", "was being"], "correct": 1},
+                    // {"question": "She went into the petrol station because she ........... out of petrol.", "options": ["run", "has run", "was run", "had run"], "correct": 3},
+                    // {"question": "There were no lights on when I came in. Everybody .................. to bed.", "options": ["goes", "was gone", "had gone", "had been going"], "correct": 2},
+                    // {"question": "By two o'clock everybody ...........; then they had lunch.", "options": ["had arrived", "arrives", "was arriving", "arrive"], "correct": 0},
+                    // {"question": "The police arrived at the house soon after they ............ them.", "options": ["had phoned", "were phoning", "were phoned", "would have phoned"], "correct": 0},
+                    // {"question": "When I switched on the TV, I realized that the film ..................... started.", "options": ["has already", "had already", "was", "has already been"], "correct": 1},
+                    // {"question": "By midnight my brother still .................... .", "options": ["didn't come", "hasn't come", "hadn't come", "wasn't coming"], "correct": 2},
+                    // {"question": "They .......... their dinner until their father had come.", "options": ["didn't take", "haven't taken", "hadn't taken", "weren't taking"], "correct": 0},
+                    // {"question": "The doctor didn't do anything as the patient ................ when he arrived.", "options": ["died", "has died", "was died", "had died"], "correct": 3},
+                    // {"question": "I was not hungry because I .................... a lot of fruit.", "options": ["eat", "have eaten", "have been eating", "had eaten"], "correct": 3},
+                    // {"question": "I didn't find the pen as I ........................ it.", "options": ["lose", "had lost", "was lost", "had been lost"], "correct": 1},
+                    // {"question": "He....... a reporter before he became a businessman.", "options": ["has been", "had been", "would be", "was being"], "correct": 1},
+                    // {"question": "He ............ a Mercedes when he had the accident.", "options": ["was driven", "drove", "was driving", "drives"], "correct": 2},
+                    // {"question": "I understood what the teacher ........................ .", "options": ["is saying", "was saying", "might say", "was said"], "correct": 1},
+                    // {"question": "He ................... television when his father came.", "options": ["is watched", "is watching", "was watched", "was watching"], "correct": 3},
+                    // {"question": "He was reading the paper while the children in the garden.", "options": ["were playing", "were played", "are played", "are playing"], "correct": 0},
+                    // {"question": "Why ....................... all that time?", "options": ["was she cried", "was she crying", "would she cry", "she cried"], "correct": 1},
+                    // {"question": "The teacher ................ me some useful advice about how to write composition.", "options": ["made", "gave", "had", "put"], "correct": 1},
+                    // {"question": "He ................... an important discovery in zoology.", "options": ["made", "gave", "played", "set"], "correct": 0},
+                    // {"question": "The trick the magician ..................... was marvelous.", "options": ["made", "gave", "played", "set"], "correct": 2},
+                    // {"question": "They ................ a lot of discussions that could not end in a decision.", "options": ["made", "played", "advised", "had"], "correct": 3},
+                    // {"question": "He...... a technique for getting the best results quickly.", "options": ["played", "advised", "put", "gave"], "correct": 2},
+                    // {"question": "We usually ...................... the evening watching TV.", "options": ["advise", "put", "get", "spend"], "correct": 3},
+                    // {"question": "I took the book back to the library when I ................ it.", "options": ["would read", "have read", "had read", "was reading"], "correct": 2},
+                    // {"question": "When the students ............. the experiment, they wrote a report on it.", "options": ["doing", "had done", "were doing", "were done"], "correct": 1},
+                    // {"question": "He didn’t buy the car until he ............... enough money.", "options": ["has saved", "had saved", "was saving", "was saved"], "correct": 1},
+                    // {"question": "Her work looks neat because she ......... the computer.", "options": ["using", "had used", "was used", "had been used"], "correct": 1},
+                    // {"question": "Jan is a wonderful singer. Her mother tells me that she ...................... professionally since she was four.", "options": ["has been sung", "was singing", "is singing", "has been singing"], "correct": 3},
+                    // {"question": "Ellen’s grades have been really bad, but this semester, Jack’s were undoubtedly .......................... .", "options": ["more bad", "badder", "worse", "so worse"], "correct": 2},
+                    // {"question": "I can’t find my wallet. ....................... it at home.", "options": ["I must leave", "Might I have left", "Maybe I leave", "I might have left"], "correct": 3},
+                    // {"question": "All the students went to the magic show, which we all thought was really ........................, yesterday.", "options": ["amusingly", "amuse", "amusing", "amused"], "correct": 2},
+                    // {"question": "We were angry about the situation and insisted..............by the president.", "options": ["to see", "on being seen", "on seeing", "to be seen"], "correct": 1},
+                    // {"question": "“I’m always willing to help you. Just tell me what .................me to do.”", "options": ["want", "you do want", "do you want", "you want"], "correct": 3},
+                    // {"question": "It is strange that for the past few days we haven’t heard.................. news about that accident.", "options": ["many", "a lot", "much", "much of"], "correct": 2},
+                    // {"question": "Communication has always been important. Ancient ...........were simple.", "options": ["message systems", "messages systems", "message-systems", "messages-systems"], "correct": 0},
+                    // {"question": "The report concluded that ............... man, woman, and child in the US should wear a seat belt when driving or riding in a car.", "options": ["all", "each of", "no", "every"], "correct": 3},
+                    // {"question": "I need ............... to finish a bench, and I’ll go and look in a garage.", "options": ["one more wood", "much woods", "many woods", "a piece of wood"], "correct": 3},
+                    // {"question": "Fifty years ago, we needed .............. than we do today.", "options": ["less mathematic", "less mathematics", "fewer mathematics", "fewer mathematic"], "correct": 1},
+                    // {"question": "All the food in the refrigerator ............. eaten, and it is empty now.", "options": ["is been", "has been", "have been", "had been"], "correct": 1},
+                    // {"question": "Economics .... nearly as interesting to me as literature.", "options": ["doesn't", "haven’t", "isn’t", "aren’t"], "correct": 2},
+                    // {"question": "There is some disagreement between my parents and...................about which job I should take.", "options": ["I", "we", "me", "us"], "correct": 2},
+                    // {"question": "A basket of apples, oranges, and bananas...............sent to my husband by his grandparents last Christmas.", "options": ["has been", "have been", "was", "were"], "correct": 2},
+                    // {"question": "That the committee members could not agree with each other about solving that problem .............. caused a serious problem.", "options": ["their", "was", "has", "have"], "correct": 1},
+                    // {"question": "Every state in the United States makes...............own laws about education, marriage, divorce, and so on.", "options": ["their", "his/her", "its", "his"], "correct": 2},
+                    // {"question": "My husband and I went to Montreal last May and greedily.............many lobsters because they were very cheap.", "options": ["eat", "ate", "have eaten", "had eaten"], "correct": 1},
+                    // {"question": "Mary and Tom lived in San Francisco, but they ………....... to Detroit.", "options": ["will just move", "are just moved", "have just moved", "had just moved"], "correct": 2},
+                    // {"question": "I was very sick, but I’ve been feeling better since I .................. the doctor.", "options": ["have visited", "visit", "had visited", "visited"], "correct": 3},
+                    // {"question": "I .................. for Quick Business Company for ten years in May.", "options": ["will have worked", "was working", "will work", "has worked"], "correct": 0},
+                    // {"question": ".............. a lot before you took the exam which many people failed?", "options": ["Have you studied", "Will you have studied", "Had you studied", "Do you study"], "correct": 2},
+                    // {"question": "I ................. eagerly to go to Yellowstone, but my wife got sick three days before the departure.", "options": ["have been planning", "have planned", "had been planning", "was planned"], "correct": 2},
+                    // {"question": "Those two pictures hanging on the gallery wall ............. in France, and they are very well known.", "options": ["were painted", "were paint", "painted", "were painting"], "correct": 0},
+                    // {"question": "Since I did not feel good, I wanted very much ............ the doctor, but it was not possible.", "options": ["to see", "to be seen", "seeing", "being seen"], "correct": 0},
+                    // {"question": "The former newspaper boy ................. to a new neighborhood to work.", "options": ["has sent", "was send", "was sent", "sent"], "correct": 2},
+                    // {"question": "Nancy’s dress is really beautiful. I hear that it .............. especially for her by a French designer.", "options": ["made", "has made", "is made", "was made"], "correct": 3},
+                    // {"question": "This soup is very hot, but I always think the ................. better.", "options": ["hotter the", "hottest", "hotter", "hot the"], "correct": 2},
+                    // {"question": "Do you know that ice cream has about .............. calories as three glasses of milk?", "options": ["so many", "so much", "as many", "as much"], "correct": 2},
+                    // {"question": "I’m planning to go fishing this weekend, but I have so much work to do that I .................... stay home.", "options": ["may have", "will", "should", "can"], "correct": 3},
+                    // {"question": "“Do you like to play ping-pong?” “I ................ , but now I prefer tennis, because it is better exercise.”", "options": ["used to do", "used to playing", "used playing", "used to"], "correct": 3},
+                    // {"question": "“Which do you prefer the blue dress or the red dress?” “The blue dress is ........................ .”", "options": ["definitely better", "better definitely", "definite better", "better definite"], "correct": 0},
+                    // {"question": "“Were you pleased with Mary’s typing?” “Yes, the job was ..................... .”", "options": ["surprising good", "surprisingly good", "surprising well", "surprisingly well"], "correct": 1},
+                    // {"question": "………are sweet biscuits having a fairly soft, chewy texture and typically containing pieces of chocolate or fruit.", "options": ["Cakes", "Lemonades", "Ice creams", "Cookies"], "correct": 3},
+                    // {"question": "…………… is a set of construction for preparing a particular dish, including a list of ingredients required.", "options": ["Dish", "Menu", "Recipe", "Plate"], "correct": 2},
+                    // {"question": "………….... is a list of dishes (or food) available in a restaurant.", "options": ["Menu", "Lobby", "Bar", "Recipe"], "correct": 0},
+                    // {"question": "Menus should contain ……………. to make items served in a restaurant look delicious and convince the guests to order more food.", "options": ["clever cooks", "a special language or languages", "various colors", "perfume"], "correct": 1},
+                    // {"question": "The person who is employed in a hotel, pub, nightclub or resort to mix and serve liquors (soft drinks) behind a bar is known as?", "options": ["barber", "bar attendant", "barbarian", "bar service"], "correct": 1},
+                    // {"question": "“………………” is a person who provides tourists on organized sightseeing and individual clients with information about certain cultural and historical heritages.", "options": ["The receptionist", "The hotel manager", "The Antiquities director", "The tour guide"], "correct": 3},
+                    // {"question": "……… is one who understands the details, techniques, or principles of an art and is competent to act as a critical judge.", "options": ["Connoisseur", "Commission", "Mission", "Missioner"], "correct": 0},
+                    // {"question": "“…………...” means doing the same things for a long time, such as getting up at 7 in the morning, making a cup of tea, ironing clothes and dressing the same items.", "options": ["Habits", "Daily routine", "Customs", "Traditions"], "correct": 1},
+                    // {"question": "“…………...” is a place that is founded for holidays, recreation or a particular purpose.", "options": ["A resort", "A town", "A village", "A city"], "correct": 0},
+                    // {"question": "Mountain climbing is a hobby or job where people climb mountains. It may involve hiking, rock climbing, as well as crossing glaciers. Mountain climbers are sage to use the strength of their arms and legs to climb up mountains. Someone who does mountain climbing is called a “………….”", "options": ["mountain boy", "mountaineer", "mounter", "scribbler"], "correct": 1},
+                    // {"question": "She went into the petrol station because she ........... out of petrol.", "options": ["run", "has run", "was run", "had run"], "correct": 3},
+                    // {"question": "There were no lights on when I came in. Everybody .................. to bed.", "options": ["goes", "was gone", "had gone", "had been going"], "correct": 2},
+                    // {"question": "By two o’clock everybody ...........; then they had lunch.", "options": ["had arrived", "arrives", "was arriving", "arrive"], "correct": 0},
+                    // {"question": "The police arrived at the house soon after they ............ them.", "options": ["had phoned", "were phoning", "were phoned", "would have phoned"], "correct": 0},
+                    // {"question": "When I switched on the TV, I realized that the film ..................... started.", "options": ["has already", "had already", "was", "has already been"], "correct": 1},
+                    // {"question": "“What a nice fireplace you have.” “I like my house really ........................ during the winter.”", "options": ["warmly and comfortably", "warmly and comfortable", "warm and comfortably", "warm and comfortable"], "correct": 3},
+                    // {"question": "Many advertisements claim that new contact lenses made of soft plastic are ..................., and easy to use.", "options": ["safe, comfortable", "safely, comfortably", "safety, comfortably", "unsafe, comfortably"], "correct": 0},
+                    // {"question": "That ……......... film entitled “Workers” deals with workers in China.", "options": ["document", "documentary", "documented", "documenting"], "correct": 1},
+                    // {"question": "I can’t eat out tonight, because I have ….............. to do.", "options": ["too many homework", "much too much homework", "too much homework", "much too many homework"], "correct": 2},
+                    // {"question": "I imagine that there is .............. of money left to share.", "options": ["a small number", "a little number", "a small amount", "a few amount"], "correct": 2},
+                    // {"question": "Did you say that you .......... there only three days ago?", "options": ["went", "had being", "have been", "had went"], "correct": 0},
+                    // {"question": "“Are we about to have dinner, Mom?” “Yes, it .......... in the dinner room.”", "options": ["serves", "is serving", "is being served", "was served"], "correct": 2},
+                    // {"question": "............... that medical insurance is extremely high.", "options": ["It feels", "we are felt", "We feel that it is", "It is felt"], "correct": 3},
+                    // {"question": "“How tall is Jack?” “He’s about ................... as I am.”", "options": ["as same height", "as higher", "the same height", "so tall"], "correct": 3},
+                    // {"question": "“I couldn’t go to class yesterday, because my car broke down” “You ........ .......... mine I wasn’t using it”", "options": ["could borrow", "may borrow", "could have borrowed", "may have borrowed"], "correct": 2},
+                    // {"question": "Nourseen ................ to finish her homework tomorrow morning because the deadline is tomorrow noon.", "options": ["have", "must", "need", "is going"], "correct": 1},
+                    // {"question": "You two have to finish that work ................. No one is going to help you.", "options": ["themselves", "yourselves", "yourself", "himself"], "correct": 1},
+                    // {"question": "My boss is ..................... old as Mr. Miller.", "options": ["as", "different", "the same", "not"], "correct": 0},
+                    // {"question": "This type of machine ........................... in 1950.", "options": ["invented", "has been invented", "had invented", "was invented"], "correct": 3},
+                    // {"question": "................... my friends like to sing.", "options": ["The most", "Most", "The most of", "most of"], "correct": 1},
+                    // {"question": "Our president has .......... many problems that he doesn't know what to do.", "options": ["very", "such", "so", "such a"], "correct": 2},
+                    // {"question": "Mr. Tomlinson is a lawyer, ....................... ?", "options": ["is he", "is it", "isn’t he", "isn’t it"], "correct": 2},
                 ]
             }
         ]

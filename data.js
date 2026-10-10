@@ -915,236 +915,143 @@ const platformData = {
                             "translation": "فعّال / كفؤ",
                             "example": "This method is more efficient."
                         }
-                    // ],
-                    // "importantPoints": [
-                    //     "",
-                    //     ""
+                    ],
+                    "importantPoints": [
+                        "In many tourism services, the service is produced and consumed at the same time, such as reception services and tour guiding. Therefore, the interaction between the employee and the tourist is an essential part of service quality.",
+                        "A tourism service is not a physical product that can be fully examined before purchase. Therefore, tourists depend on factors such as reputation, reviews, photos, and recommendations when making their purchasing decisions. ",
+                        "Service quality may differ from one employee to another or from one time to another because of differences in experience, training, and operating conditions. Therefore, tourism establishments need standards and procedures that help maintain a stable level of service.",
+                        "Unused tourism capacity cannot be stored and sold later. For example, an unsold hotel room or an empty seat on a tourist trip cannot be stored for future sale.",
                     ],
                     "flashcards": [
                         {
-                            "term": "Essential",
-                            "definition": "مصطلح متعلق بموضوع الأزمنة المستمرة يُستخدم في السياقات التعليمية والعملية.",
-                            "translation": "ضروري",
-                            "example": "Water is essential for life."
+                            "term": "Intangibility",
+                            "definition": "A tourism service is not a physical product that can be fully examined before purchase. Therefore, tourists depend on factors such as reputation, reviews, photos, and recommendations when making their purchasing decisions",
                         },
                         {
-                            "term": "Deadline",
-                            "definition": "مفهوم أساسي ضمن درس الأزمنة المستمرة يساعد على الفهم العميق للموضوع.",
-                            "translation": "الموعد النهائي",
-                            "example": "The deadline for the report is Friday."
-                        }
+                            "term": "Simultaneous Production and Consumption",
+                            "definition": "the service is produced and consumed at the same time, such as reception services and tour guiding. Therefore, the interaction between the employee and the tourist is an essential part of service quality.",
+                        },
+                        {
+                            "term": "Variability",
+                            "definition": "Service quality may differ from one employee to another or from one time to another because of differences in experience, training, and operating conditions. Therefore, tourism establishments need standards and procedures that help maintain a stable level of service",
+                        },
+                        {
+                            "term": "Perishability",
+                            "definition": "Unused tourism capacity cannot be stored and sold later. For example, an unsold hotel room or an empty seat on a tourist trip cannot be stored for future sale.",
+                        },
                     ],
                     "quiz": [
+                        {"question": "A tourism service is not a physical product that can be fully examined before purchase. Therefore, tourists depend on factors such as reputation, reviews, photos, and recommendations when making their purchasing decisions.","options": ["Intangibility","Perishability","Variability","Simultaneous Production and Consumption"],"correct": 0},
+                        {"question": "In many tourism services, the service is produced and consumed at the same time, such as reception services and tour guiding. Therefore, the interaction between the employee and the tourist is an essential part of service quality.","options": ["Variability","Simultaneous Production and Consumption","Intangibility","Perishability"],"correct": 1},
+                        {"question": "Service quality may differ from one employee to another or from one time to another because of differences in experience, training, and operating conditions. Therefore, tourism establishments need standards and procedures that help maintain a stable level of service.","options": ["Perishability","Simultaneous Production and Consumption","Variability","Intangibility"],"correct": 2},
+                        {"question": "Unused tourism capacity cannot be stored and sold later. For example, an unsold hotel room or an empty seat on a tourist trip cannot be stored for future sale.","options": ["Intangibility","Variability","Simultaneous Production and Consumption","Perishability"],"correct": 3},
+                        {"question": "Characteristics of Quality in Tourism Services", "options": ["Variability", "Simultaneous Production and Consumption", "Intangibility", "All of them"], "correct": 3 },
+                        {"question": "The ability of a product or service to meet the specific requirements, needs, and expectations of the customer.", "options": ["Tourism Service Quality", "Quality", "Tourist's Perception", "Tourism Organization Efficiency"], "correct": 1}, 
+                        {"question": "The ability of a tourism organization to continuously provide products, services, and experiences that meet the needs and expectations of tourists, while maintaining an appropriate level of efficiency, reliability, and safety.", "options": ["Tourism Service Quality", "Quality", "Tourist's Perception", "Management Evaluation"], "correct": 0}, 
+                        {"question": "The factor that the evaluation of tourism service quality is largely related to, rather than depending only on the opinion of management or employees.", "options": ["High prices or luxury", "Employee opinion", "Tourist's perception", "Organizational efficiency"], "correct": 2},
+                        {"question": "Appears through providing better value to tourists compared with competitors, whether through service quality, ease of obtaining the service, the level of customer care, or the ability to solve problems quickly and effectively.","options": ["Quality","Tourist Experience","Competitive Advantage","Expectation Comparison"],"correct": 2},
+                        {"question": "A situation where performance is lower than expectations, causing the tourist to usually feel dissatisfied.","options": ["Acceptable Level of Satisfaction","High Satisfaction","Tourist Dissatisfaction","Competitive Advantage"],"correct": 2},
+                        {"question": "An important means of achieving excellence and competitiveness in the modern tourism environment through reliable service, quick response to needs, and consistent performance.","options": ["Tourist Dissatisfaction","Service Expectations","Quality","Customer Perception"],"correct": 2},
+                        {"question": "A tourist's evaluation of service quality is related to the comparison between their expectations before receiving the service and their actual perception of the service after receiving it.", "options": ["Competitive Advantage", "Quality and Tourist Satisfaction", "Quality and Competitive Advantage", "Service Performance"], "correct": 1},
+                        {"question": "A condition where performance exceeds expectations, causing the tourist to feel highly satisfied and become more willing to repeat the experience or recommend it to others.", "options": ["Acceptable Level of Satisfaction", "Service Dissatisfaction", "Quality and Tourist Satisfaction", "High Tourist Satisfaction"], "correct": 3},
+                        {"question": "One of the most important factors influencing the development of a positive tourism experience based on the relationship between service evaluation and performance.", "options": ["Quality", "Price Strategy", "Advertising Campaign", "Tour Guide Experience"], "correct": 0},
+                        {"question": "An important means of achieving excellence and competitiveness in the modern tourism environment where an establishment provides reliable service and maintains consistent performance.", "options": ["Tourist Expectation", "Quality and Competitive Advantage", "Service Cost", "Market Fluctuation"], "correct": 1},
+                        {"question": "Appears through providing better value to tourists compared with competitors, whether through service quality, ease of obtaining the service, or the ability to solve problems quickly and effectively.", "options": ["Quality and Tourist Satisfaction", "Service Quality", "Competitive Advantage", "Customer Care"], "correct": 2},
+                        {"question": "One of the most important factors influencing the development of a positive tourism experience.","options": ["Quality","Competitive Advantage","Customer Care","Performance"],"correct": 0},
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "المحاضرة 2",
+                    "content": "في هذه المحاضرة سنتناول موضوع \"أزمنة المستقبل\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+                    "pdfUrl": "https://drive.google.com/file/d/19s29IyIP1sIXyRA_89ObmD-8yfUBbavb/view?usp=drive_link",
+                    "vocabulary": [
                         {
-                            "question": "ما هو المعنى الأصح لموضوع 'الأزمنة المستمرة' في هذا الدرس؟",
-                            "options": [
-                                "الإجابة الصحيحة والمرتبطة بالموضوع",
-                                "إجابة غير مرتبطة بالموضوع",
-                                "إجابة عامة غير دقيقة",
-                                "لا شيء مما سبق"
-                            ],
-                            "correct": 0
+                            "word": "Inspecting",
+                            "translation": "فحص / تفتيش",
+                            "example": "The manager is inspecting the hotel rooms."
                         },
                         {
-                            "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الأزمنة المستمرة'؟",
-                            "options": [
-                                "الاستخدام الصحيح كما ورد في الشرح",
-                                "استخدام خاطئ شائع",
-                                "استخدام قديم غير مستعمل",
-                                "استخدام غير مرتبط"
-                            ],
-                            "correct": 0
+                            "word": "Overall",
+                            "translation": "إجمالي / عام / شامل",
+                            "example": "Overall quality is important"
                         },
                         {
-                            "question": "عند التطبيق العملي لدرس 'الأزمنة المستمرة'، ماذا يجب أن تفعل أولاً؟",
-                            "options": [
-                                "اتباع الخطوات كما وردت في الدرس",
-                                "تجاهل القاعدة الأساسية",
-                                "البدء بدون فهم الأساسيات",
-                                "حفظ الأمثلة فقط دون فهم"
-                            ],
-                            "correct": 0
+                            "word": "Practitioners",
+                            "translation": "الممارسون / المتخصصون",
+                            "example": "Practitioners apply quality standards"
                         },
                         {
-                            "question": "أي جملة تعكس بشكل صحيح فكرة 'الأزمنة المستمرة'؟",
-                            "options": [
-                                "الجملة التي تطبق القاعدة بشكل صحيح",
-                                "جملة تحتوي على خطأ واضح",
-                                "جملة غير مكتملة",
-                                "جملة بلغة أخرى تمامًا"
-                            ],
-                            "correct": 0
+                            "word": "As perceived by",
+                            "translation": "كما يُنظر إليه من قِبل / كما يراه",
+                            "example": "Quality is defined as perceived by customers."
+                        },
+                        {
+                            "word": "Compliance",
+                            "translation": "الامتثال / الالتزام",
+                            "example": "Compliance with standards is essential"
+                        },
+                        {
+                            "word": "Procedures",
+                            "translation": "الإجراءات",
+                            "example": "Employees must follow the procedures."
+                        },
+                        {
+                            "word": "Deviations",
+                            "translation": "الانحرافات / المخالفات",
+                            "example": "The inspector identified deviations from the standards."
+                        },
+                        {
+                            "word": "Detecting errors",
+                            "translation": "اكتشاف الأخطاء",
+                            "example": "Detecting errors is an important part of quality control."
                         }
+                    ],
+                    // "importantPoints": [
+                    //     "مارس المفردات الجديدة في جمل من إنشائك.",
+                    //     "استمع للنطق الصحيح قبل التكرار."
+                    // ],
+                    "flashcards": [
+                        {
+                            "term": "Quality",
+                            "definition": "Quality refers to the extent to which a product or service conforms to specified requirements and standards and its ability to meet customer needs and expectations",
+                        },
+                                                {
+                            "term": "Service Quality",
+                            "definition": "Service quality refers to the level of service performance as perceived by the customer and the extent to which this performance matches their expectations and needs",
+                        },
+                                                {
+                            "term": "Quality Control",
+                            "definition": "Quality control is a set of procedures and activities aimed at monitoring processes, identifying deviations and errors, and ensuring compliance with specified standards",
+                        },
+                                                {
+                            "term": "Quality Assurance",
+                            "definition": "Quality assurance is a set of organized procedures designed to provide confidence that a product or service will be delivered according to the required levels and standards.",
+                        },
+                                                {
+                            "term": "Quality Management",
+                            "definition": "Quality management is a management approach that aims to plan, implement, monitor, and continuously improve quality.",
+                        },
+                                                {
+                            "term": "Continuous Improvement",
+                            "definition": "Continuous improvement is an ongoing process of developing processes and services in order to improve performance, reduce errors, and provide greater value to the customer.",
+                        },
+                    ],
+                    "quiz": [
+                        {"question": "The extent to which a product or service conforms to specified requirements and standards and its ability to meet customer needs and expectations.","options": ["Quality Control", "Quality", "Service Quality", "Quality Assurance"],"correct": 1},
+                        {"question": "The level of service performance as perceived by the customer and the extent to which this performance matches their expectations and needs.","options": ["Quality Management", "Continuous Improvement", "Service Quality", "Quality"],"correct": 2},
+                        {"question": "A set of procedures and activities aimed at monitoring processes, identifying deviations and errors, and ensuring compliance with specified standards.","options": ["Quality Control", "Quality Assurance", "Inspection", "Total Quality Management"],"correct": 0},
+                        {"question": "A set of organized procedures designed to provide confidence that a product or service will be delivered according to the required levels and standards.","options": ["Quality Control", "Quality Assurance", "Quality Management", "Continuous Improvement"],"correct": 1},
+                        {"question": "A management approach that aims to plan, implement, monitor, and continuously improve quality.","options": ["Quality Assurance", "Quality Management", "Service Quality", "Quality"],"correct": 1},
+                        {"question": "An ongoing process of developing processes and services in order to improve performance, reduce errors, and provide greater value to the customer.","options": ["Continuous Improvement", "Quality Control", "Quality Management", "Inspection"],"correct": 0},
+                        {"question": "One of the early stages in the development of quality management where the focus was on inspecting the product or service after completion in order to identify errors and reject non-conforming results.","options": ["Quality Control Stage", "Quality Assurance Stage", "Inspection Stage", "Total Quality Management Stage"],"correct": 2},
+                        {"question": "The stage in the development of quality management thought that shifted attention from simply detecting errors to monitoring the processes that produce the service, with the aim of reducing the occurrence of errors.","options": ["Inspection Stage", "Quality Control Stage", "Quality Assurance Stage", "Total Quality Management Stage"],"correct": 1},
+                        {"question": "The stage that focused on preventing errors instead of detecting them after they occurred, directing attention toward designing processes and procedures in a way that helps achieve quality from the beginning.","options": ["Quality Control Stage", "Total Quality Management Stage", "Quality Assurance Stage", "Inspection Stage"],"correct": 2},
+                        {"question": "The stage representing a more comprehensive development in management thought where quality became the responsibility of all employees and connected with the organization's culture, process management, and customer relationships.","options": ["Quality Assurance Stage", "Total Quality Management Stage", "Quality Control Stage", "Inspection Stage"],"correct": 1},
                     ]
                 },
                 // {
-                //     "id": 2,
-                //     "title": "المحاضرة 2: أزمنة الماضي",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"أزمنة الماضي\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section3_lecture2/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Destination",
-                //             "translation": "الوجهة",
-                //             "example": "Paris is a popular travel destination."
-                //         },
-                //         {
-                //             "word": "Reservation",
-                //             "translation": "حجز",
-                //             "example": "I made a reservation for two people."
-                //         },
-                //         {
-                //             "word": "Currency",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة.",
-                //         "مارس المفردات الجديدة في جمل من إنشائك."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Destination",
-                //             "definition": "مصطلح متعلق بموضوع أزمنة الماضي يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "الوجهة",
-                //             "example": "Paris is a popular travel destination."
-                //         },
-                //         {
-                //             "term": "Reservation",
-                //             "definition": "مفهوم أساسي ضمن درس أزمنة الماضي يساعد على الفهم العميق للموضوع.",
-                //             "translation": "حجز",
-                //             "example": "I made a reservation for two people."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'أزمنة الماضي' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'أزمنة الماضي'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'أزمنة الماضي'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'أزمنة الماضي'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
                 //     "id": 3,
-                //     "title": "المحاضرة 3: أزمنة المستقبل",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"أزمنة المستقبل\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section3_lecture3/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Achieve",
-                //             "translation": "يحقق / ينجز",
-                //             "example": "She worked hard to achieve her goals."
-                //         },
-                //         {
-                //             "word": "Environment",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         },
-                //         {
-                //             "word": "Opportunity",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "مارس المفردات الجديدة في جمل من إنشائك.",
-                //         "استمع للنطق الصحيح قبل التكرار."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Achieve",
-                //             "definition": "مصطلح متعلق بموضوع أزمنة المستقبل يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "يحقق / ينجز",
-                //             "example": "She worked hard to achieve her goals."
-                //         },
-                //         {
-                //             "term": "Environment",
-                //             "definition": "مفهوم أساسي ضمن درس أزمنة المستقبل يساعد على الفهم العميق للموضوع.",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'أزمنة المستقبل' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'أزمنة المستقبل'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'أزمنة المستقبل'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'أزمنة المستقبل'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 4,
                 //     "title": "المحاضرة 4: الجمل الشرطية",
                 //     "content": "في هذه المحاضرة سنتناول موضوع \"الجمل الشرطية\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
                 //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section3_lecture4/view",
@@ -1224,7 +1131,7 @@ const platformData = {
                 //     ]
                 // },
                 // {
-                //     "id": 5,
+                //     "id": 4,
                 //     "title": "المحاضرة 5: المبني للمجهول",
                 //     "content": "في هذه المحاضرة سنتناول موضوع \"المبني للمجهول\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
                 //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section3_lecture5/view",
@@ -1307,7 +1214,7 @@ const platformData = {
                 //     ]
                 // },
                 // {
-                //     "id": 6,
+                //     "id": 5,
                 //     "title": "المحاضرة 6: أدوات الربط",
                 //     "content": "في هذه المحاضرة سنتناول موضوع \"أدوات الربط\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
                 //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section3_lecture6/view",
@@ -2224,7 +2131,7 @@ const platformData = {
             "id": 5,
             "key": "section5",
             "title": "الاحصاء السياحي",
-            "description": "محضرات مصطفي فرغلي",
+            "description": " مصطفي فرغلي",
             "icon": "fa-square-poll-vertical",
             "lectures": [
             {
@@ -4381,1338 +4288,1338 @@ const platformData = {
                 }
             ]
         },
-        {
-            "id": 7,
-            "key": "section7",
-            "title": "التشريعات في السياحة والضيافة",
-            "icon": "fa-solid fa-hotel",
-            "lectures": [
-                // {
-                //     "id": 1,
-                //     "title": "المحاضرة 1: في المطار",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"في المطار\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture1/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Schedule",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         },
-                //         {
-                //             "word": "Negotiate",
-                //             "translation": "يتفاوض",
-                //             "example": "They negotiated a better price."
-                //         },
-                //         {
-                //             "word": "Essential",
-                //             "translation": "ضروري",
-                //             "example": "Water is essential for life."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "راجع المحتوى بشكل دوري لتثبيت المعلومة.",
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Schedule",
-                //             "definition": "مصطلح متعلق بموضوع في المطار يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         },
-                //         {
-                //             "term": "Negotiate",
-                //             "definition": "مفهوم أساسي ضمن درس في المطار يساعد على الفهم العميق للموضوع.",
-                //             "translation": "يتفاوض",
-                //             "example": "They negotiated a better price."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'في المطار' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'في المطار'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'في المطار'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'في المطار'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 2,
-                //     "title": "المحاضرة 2: حجز الفنادق",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"حجز الفنادق\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture2/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Deadline",
-                //             "translation": "الموعد النهائي",
-                //             "example": "The deadline for the report is Friday."
-                //         },
-                //         {
-                //             "word": "Efficient",
-                //             "translation": "فعّال / كفؤ",
-                //             "example": "This method is more efficient."
-                //         },
-                //         {
-                //             "word": "Destination",
-                //             "translation": "الوجهة",
-                //             "example": "Paris is a popular travel destination."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب.",
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Deadline",
-                //             "definition": "مصطلح متعلق بموضوع حجز الفنادق يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "الموعد النهائي",
-                //             "example": "The deadline for the report is Friday."
-                //         },
-                //         {
-                //             "term": "Efficient",
-                //             "definition": "مفهوم أساسي ضمن درس حجز الفنادق يساعد على الفهم العميق للموضوع.",
-                //             "translation": "فعّال / كفؤ",
-                //             "example": "This method is more efficient."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'حجز الفنادق' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'حجز الفنادق'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'حجز الفنادق'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'حجز الفنادق'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 3,
-                //     "title": "المحاضرة 3: وسائل المواصلات",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"وسائل المواصلات\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture3/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Reservation",
-                //             "translation": "حجز",
-                //             "example": "I made a reservation for two people."
-                //         },
-                //         {
-                //             "word": "Currency",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         },
-                //         {
-                //             "word": "Achieve",
-                //             "translation": "يحقق / ينجز",
-                //             "example": "She worked hard to achieve her goals."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة.",
-                //         "مارس المفردات الجديدة في جمل من إنشائك."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Reservation",
-                //             "definition": "مصطلح متعلق بموضوع وسائل المواصلات يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "حجز",
-                //             "example": "I made a reservation for two people."
-                //         },
-                //         {
-                //             "term": "Currency",
-                //             "definition": "مفهوم أساسي ضمن درس وسائل المواصلات يساعد على الفهم العميق للموضوع.",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'وسائل المواصلات' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'وسائل المواصلات'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'وسائل المواصلات'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'وسائل المواصلات'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 4,
-                //     "title": "المحاضرة 4: الاستفسار السياحي",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"الاستفسار السياحي\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture4/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Environment",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         },
-                //         {
-                //             "word": "Opportunity",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         },
-                //         {
-                //             "word": "Responsible",
-                //             "translation": "مسؤول",
-                //             "example": "He is responsible for the whole project."
-                //         }
-                //     ],
-                //     "importantPoints": [],
-                //     "flashcards": [
-                //         {
-                //             "term": "Environment",
-                //             "definition": "مصطلح متعلق بموضوع الاستفسار السياحي يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         },
-                //         {
-                //             "term": "Opportunity",
-                //             "definition": "مفهوم أساسي ضمن درس الاستفسار السياحي يساعد على الفهم العميق للموضوع.",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'الاستفسار السياحي' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الاستفسار السياحي'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'الاستفسار السياحي'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الاستفسار السياحي'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 5,
-                //     "title": "المحاضرة 5: الطوارئ أثناء السفر",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"الطوارئ أثناء السفر\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture5/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Communicate",
-                //             "translation": "يتواصل",
-                //             "example": "It's important to communicate clearly."
-                //         },
-                //         {
-                //             "word": "Improve",
-                //             "translation": "يُحسّن",
-                //             "example": "Practice will improve your skills."
-                //         },
-                //         {
-                //             "word": "Confidence",
-                //             "translation": "الثقة",
-                //             "example": "Confidence comes with practice."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "استمع للنطق الصحيح قبل التكرار.",
-                //         "راجع المحتوى بشكل دوري لتثبيت المعلومة."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Communicate",
-                //             "definition": "مصطلح متعلق بموضوع الطوارئ أثناء السفر يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "يتواصل",
-                //             "example": "It's important to communicate clearly."
-                //         },
-                //         {
-                //             "term": "Improve",
-                //             "definition": "مفهوم أساسي ضمن درس الطوارئ أثناء السفر يساعد على الفهم العميق للموضوع.",
-                //             "translation": "يُحسّن",
-                //             "example": "Practice will improve your skills."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'الطوارئ أثناء السفر' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الطوارئ أثناء السفر'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'الطوارئ أثناء السفر'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الطوارئ أثناء السفر'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 6,
-                //     "title": "المحاضرة 6: الجمارك والهجرة",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"الجمارك والهجرة\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture6/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Schedule",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         },
-                //         {
-                //             "word": "Negotiate",
-                //             "translation": "يتفاوض",
-                //             "example": "They negotiated a better price."
-                //         },
-                //         {
-                //             "word": "Essential",
-                //             "translation": "ضروري",
-                //             "example": "Water is essential for life."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "راجع المحتوى بشكل دوري لتثبيت المعلومة.",
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Schedule",
-                //             "definition": "مصطلح متعلق بموضوع الجمارك والهجرة يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         },
-                //         {
-                //             "term": "Negotiate",
-                //             "definition": "مفهوم أساسي ضمن درس الجمارك والهجرة يساعد على الفهم العميق للموضوع.",
-                //             "translation": "يتفاوض",
-                //             "example": "They negotiated a better price."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'الجمارك والهجرة' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الجمارك والهجرة'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'الجمارك والهجرة'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الجمارك والهجرة'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 7,
-                //     "title": "المحاضرة 7: استئجار سيارة",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"استئجار سيارة\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture7/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Deadline",
-                //             "translation": "الموعد النهائي",
-                //             "example": "The deadline for the report is Friday."
-                //         },
-                //         {
-                //             "word": "Efficient",
-                //             "translation": "فعّال / كفؤ",
-                //             "example": "This method is more efficient."
-                //         },
-                //         {
-                //             "word": "Destination",
-                //             "translation": "الوجهة",
-                //             "example": "Paris is a popular travel destination."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب.",
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Deadline",
-                //             "definition": "مصطلح متعلق بموضوع استئجار سيارة يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "الموعد النهائي",
-                //             "example": "The deadline for the report is Friday."
-                //         },
-                //         {
-                //             "term": "Efficient",
-                //             "definition": "مفهوم أساسي ضمن درس استئجار سيارة يساعد على الفهم العميق للموضوع.",
-                //             "translation": "فعّال / كفؤ",
-                //             "example": "This method is more efficient."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'استئجار سيارة' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'استئجار سيارة'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'استئجار سيارة'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'استئجار سيارة'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 8,
-                //     "title": "المحاضرة 8: مراجعة السفر",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"مراجعة السفر\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture8/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Reservation",
-                //             "translation": "حجز",
-                //             "example": "I made a reservation for two people."
-                //         },
-                //         {
-                //             "word": "Currency",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         },
-                //         {
-                //             "word": "Achieve",
-                //             "translation": "يحقق / ينجز",
-                //             "example": "She worked hard to achieve her goals."
-                //         }
-                //     ],
-                //     "importantPoints": [],
-                //     "flashcards": [
-                //         {
-                //             "term": "Reservation",
-                //             "definition": "مصطلح متعلق بموضوع مراجعة السفر يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "حجز",
-                //             "example": "I made a reservation for two people."
-                //         },
-                //         {
-                //             "term": "Currency",
-                //             "definition": "مفهوم أساسي ضمن درس مراجعة السفر يساعد على الفهم العميق للموضوع.",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'مراجعة السفر' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مراجعة السفر'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'مراجعة السفر'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مراجعة السفر'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // }
-            ]
-        },
-        {
-            "id": 8,
-            "key": "section8",
-            "title": "افتصاديات السياحة",
-            "icon": "fa-solid fa-sack-dollar",
-            "lectures": [
-                // {
-                //     "id": 1,
-                //     "title": "المحاضرة 1: المرادفات والأضداد",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"المرادفات والأضداد\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture1/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Currency",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         },
-                //         {
-                //             "word": "Achieve",
-                //             "translation": "يحقق / ينجز",
-                //             "example": "She worked hard to achieve her goals."
-                //         },
-                //         {
-                //             "word": "Environment",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب.",
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Currency",
-                //             "definition": "مصطلح متعلق بموضوع المرادفات والأضداد يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         },
-                //         {
-                //             "term": "Achieve",
-                //             "definition": "مفهوم أساسي ضمن درس المرادفات والأضداد يساعد على الفهم العميق للموضوع.",
-                //             "translation": "يحقق / ينجز",
-                //             "example": "She worked hard to achieve her goals."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'المرادفات والأضداد' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'المرادفات والأضداد'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'المرادفات والأضداد'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'المرادفات والأضداد'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 2,
-                //     "title": "المحاضرة 2: المفردات الأكاديمية",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"المفردات الأكاديمية\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture2/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Opportunity",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         },
-                //         {
-                //             "word": "Responsible",
-                //             "translation": "مسؤول",
-                //             "example": "He is responsible for the whole project."
-                //         },
-                //         {
-                //             "word": "Communicate",
-                //             "translation": "يتواصل",
-                //             "example": "It's important to communicate clearly."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة.",
-                //         "مارس المفردات الجديدة في جمل من إنشائك."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Opportunity",
-                //             "definition": "مصطلح متعلق بموضوع المفردات الأكاديمية يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         },
-                //         {
-                //             "term": "Responsible",
-                //             "definition": "مفهوم أساسي ضمن درس المفردات الأكاديمية يساعد على الفهم العميق للموضوع.",
-                //             "translation": "مسؤول",
-                //             "example": "He is responsible for the whole project."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'المفردات الأكاديمية' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'المفردات الأكاديمية'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'المفردات الأكاديمية'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'المفردات الأكاديمية'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 3,
-                //     "title": "المحاضرة 3: التعبيرات الاصطلاحية",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"التعبيرات الاصطلاحية\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture3/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Improve",
-                //             "translation": "يُحسّن",
-                //             "example": "Practice will improve your skills."
-                //         },
-                //         {
-                //             "word": "Confidence",
-                //             "translation": "الثقة",
-                //             "example": "Confidence comes with practice."
-                //         },
-                //         {
-                //             "word": "Schedule",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "مارس المفردات الجديدة في جمل من إنشائك.",
-                //         "استمع للنطق الصحيح قبل التكرار."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Improve",
-                //             "definition": "مصطلح متعلق بموضوع التعبيرات الاصطلاحية يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "يُحسّن",
-                //             "example": "Practice will improve your skills."
-                //         },
-                //         {
-                //             "term": "Confidence",
-                //             "definition": "مفهوم أساسي ضمن درس التعبيرات الاصطلاحية يساعد على الفهم العميق للموضوع.",
-                //             "translation": "الثقة",
-                //             "example": "Confidence comes with practice."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'التعبيرات الاصطلاحية' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'التعبيرات الاصطلاحية'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'التعبيرات الاصطلاحية'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'التعبيرات الاصطلاحية'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 4,
-                //     "title": "المحاضرة 4: الأفعال المركبة",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"الأفعال المركبة\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture4/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Negotiate",
-                //             "translation": "يتفاوض",
-                //             "example": "They negotiated a better price."
-                //         },
-                //         {
-                //             "word": "Essential",
-                //             "translation": "ضروري",
-                //             "example": "Water is essential for life."
-                //         },
-                //         {
-                //             "word": "Deadline",
-                //             "translation": "الموعد النهائي",
-                //             "example": "The deadline for the report is Friday."
-                //         }
-                //     ],
-                //     "importantPoints": [],
-                //     "flashcards": [
-                //         {
-                //             "term": "Negotiate",
-                //             "definition": "مصطلح متعلق بموضوع الأفعال المركبة يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "يتفاوض",
-                //             "example": "They negotiated a better price."
-                //         },
-                //         {
-                //             "term": "Essential",
-                //             "definition": "مفهوم أساسي ضمن درس الأفعال المركبة يساعد على الفهم العميق للموضوع.",
-                //             "translation": "ضروري",
-                //             "example": "Water is essential for life."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'الأفعال المركبة' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الأفعال المركبة'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'الأفعال المركبة'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الأفعال المركبة'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 5,
-                //     "title": "المحاضرة 5: مفردات التكنولوجيا",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"مفردات التكنولوجيا\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture5/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Efficient",
-                //             "translation": "فعّال / كفؤ",
-                //             "example": "This method is more efficient."
-                //         },
-                //         {
-                //             "word": "Destination",
-                //             "translation": "الوجهة",
-                //             "example": "Paris is a popular travel destination."
-                //         },
-                //         {
-                //             "word": "Reservation",
-                //             "translation": "حجز",
-                //             "example": "I made a reservation for two people."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "راجع المحتوى بشكل دوري لتثبيت المعلومة.",
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Efficient",
-                //             "definition": "مصطلح متعلق بموضوع مفردات التكنولوجيا يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "فعّال / كفؤ",
-                //             "example": "This method is more efficient."
-                //         },
-                //         {
-                //             "term": "Destination",
-                //             "definition": "مفهوم أساسي ضمن درس مفردات التكنولوجيا يساعد على الفهم العميق للموضوع.",
-                //             "translation": "الوجهة",
-                //             "example": "Paris is a popular travel destination."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'مفردات التكنولوجيا' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مفردات التكنولوجيا'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'مفردات التكنولوجيا'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مفردات التكنولوجيا'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 6,
-                //     "title": "المحاضرة 6: مفردات البيئة",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"مفردات البيئة\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture6/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Currency",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         },
-                //         {
-                //             "word": "Achieve",
-                //             "translation": "يحقق / ينجز",
-                //             "example": "She worked hard to achieve her goals."
-                //         },
-                //         {
-                //             "word": "Environment",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب.",
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Currency",
-                //             "definition": "مصطلح متعلق بموضوع مفردات البيئة يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         },
-                //         {
-                //             "term": "Achieve",
-                //             "definition": "مفهوم أساسي ضمن درس مفردات البيئة يساعد على الفهم العميق للموضوع.",
-                //             "translation": "يحقق / ينجز",
-                //             "example": "She worked hard to achieve her goals."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'مفردات البيئة' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مفردات البيئة'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'مفردات البيئة'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مفردات البيئة'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 7,
-                //     "title": "المحاضرة 7: مفردات الاقتصاد",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"مفردات الاقتصاد\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture7/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Opportunity",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         },
-                //         {
-                //             "word": "Responsible",
-                //             "translation": "مسؤول",
-                //             "example": "He is responsible for the whole project."
-                //         },
-                //         {
-                //             "word": "Communicate",
-                //             "translation": "يتواصل",
-                //             "example": "It's important to communicate clearly."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة.",
-                //         "مارس المفردات الجديدة في جمل من إنشائك."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Opportunity",
-                //             "definition": "مصطلح متعلق بموضوع مفردات الاقتصاد يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         },
-                //         {
-                //             "term": "Responsible",
-                //             "definition": "مفهوم أساسي ضمن درس مفردات الاقتصاد يساعد على الفهم العميق للموضوع.",
-                //             "translation": "مسؤول",
-                //             "example": "He is responsible for the whole project."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'مفردات الاقتصاد' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مفردات الاقتصاد'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'مفردات الاقتصاد'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مفردات الاقتصاد'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 8,
-                //     "title": "المحاضرة 8: مراجعة المفردات",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"مراجعة المفردات\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture8/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Improve",
-                //             "translation": "يُحسّن",
-                //             "example": "Practice will improve your skills."
-                //         },
-                //         {
-                //             "word": "Confidence",
-                //             "translation": "الثقة",
-                //             "example": "Confidence comes with practice."
-                //         },
-                //         {
-                //             "word": "Schedule",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         }
-                //     ],
-                //     "importantPoints": [],
-                //     "flashcards": [
-                //         {
-                //             "term": "Improve",
-                //             "definition": "مصطلح متعلق بموضوع مراجعة المفردات يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "يُحسّن",
-                //             "example": "Practice will improve your skills."
-                //         },
-                //         {
-                //             "term": "Confidence",
-                //             "definition": "مفهوم أساسي ضمن درس مراجعة المفردات يساعد على الفهم العميق للموضوع.",
-                //             "translation": "الثقة",
-                //             "example": "Confidence comes with practice."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'مراجعة المفردات' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مراجعة المفردات'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'مراجعة المفردات'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مراجعة المفردات'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // }
-            ]
-        }
+        // {
+        //     "id": 7,
+        //     "key": "section7",
+        //     "title": "التشريعات في السياحة والضيافة",
+        //     "icon": "fa-solid fa-hotel",
+        //     "lectures": [
+        //         // {
+        //         //     "id": 1,
+        //         //     "title": "المحاضرة 1: في المطار",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"في المطار\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture1/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Schedule",
+        //         //             "translation": "جدول زمني",
+        //         //             "example": "Please check the schedule for the meeting."
+        //         //         },
+        //         //         {
+        //         //             "word": "Negotiate",
+        //         //             "translation": "يتفاوض",
+        //         //             "example": "They negotiated a better price."
+        //         //         },
+        //         //         {
+        //         //             "word": "Essential",
+        //         //             "translation": "ضروري",
+        //         //             "example": "Water is essential for life."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "راجع المحتوى بشكل دوري لتثبيت المعلومة.",
+        //         //         "لا تخف من ارتكاب الأخطاء أثناء التدرب."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Schedule",
+        //         //             "definition": "مصطلح متعلق بموضوع في المطار يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "جدول زمني",
+        //         //             "example": "Please check the schedule for the meeting."
+        //         //         },
+        //         //         {
+        //         //             "term": "Negotiate",
+        //         //             "definition": "مفهوم أساسي ضمن درس في المطار يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "يتفاوض",
+        //         //             "example": "They negotiated a better price."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'في المطار' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'في المطار'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'في المطار'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'في المطار'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 2,
+        //         //     "title": "المحاضرة 2: حجز الفنادق",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"حجز الفنادق\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture2/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Deadline",
+        //         //             "translation": "الموعد النهائي",
+        //         //             "example": "The deadline for the report is Friday."
+        //         //         },
+        //         //         {
+        //         //             "word": "Efficient",
+        //         //             "translation": "فعّال / كفؤ",
+        //         //             "example": "This method is more efficient."
+        //         //         },
+        //         //         {
+        //         //             "word": "Destination",
+        //         //             "translation": "الوجهة",
+        //         //             "example": "Paris is a popular travel destination."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "لا تخف من ارتكاب الأخطاء أثناء التدرب.",
+        //         //         "افهم القاعدة أولاً قبل حفظ الأمثلة."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Deadline",
+        //         //             "definition": "مصطلح متعلق بموضوع حجز الفنادق يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "الموعد النهائي",
+        //         //             "example": "The deadline for the report is Friday."
+        //         //         },
+        //         //         {
+        //         //             "term": "Efficient",
+        //         //             "definition": "مفهوم أساسي ضمن درس حجز الفنادق يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "فعّال / كفؤ",
+        //         //             "example": "This method is more efficient."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'حجز الفنادق' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'حجز الفنادق'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'حجز الفنادق'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'حجز الفنادق'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 3,
+        //         //     "title": "المحاضرة 3: وسائل المواصلات",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"وسائل المواصلات\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture3/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Reservation",
+        //         //             "translation": "حجز",
+        //         //             "example": "I made a reservation for two people."
+        //         //         },
+        //         //         {
+        //         //             "word": "Currency",
+        //         //             "translation": "العملة",
+        //         //             "example": "The local currency is the euro."
+        //         //         },
+        //         //         {
+        //         //             "word": "Achieve",
+        //         //             "translation": "يحقق / ينجز",
+        //         //             "example": "She worked hard to achieve her goals."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "افهم القاعدة أولاً قبل حفظ الأمثلة.",
+        //         //         "مارس المفردات الجديدة في جمل من إنشائك."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Reservation",
+        //         //             "definition": "مصطلح متعلق بموضوع وسائل المواصلات يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "حجز",
+        //         //             "example": "I made a reservation for two people."
+        //         //         },
+        //         //         {
+        //         //             "term": "Currency",
+        //         //             "definition": "مفهوم أساسي ضمن درس وسائل المواصلات يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "العملة",
+        //         //             "example": "The local currency is the euro."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'وسائل المواصلات' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'وسائل المواصلات'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'وسائل المواصلات'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'وسائل المواصلات'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 4,
+        //         //     "title": "المحاضرة 4: الاستفسار السياحي",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"الاستفسار السياحي\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture4/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Environment",
+        //         //             "translation": "البيئة",
+        //         //             "example": "Protecting the environment is important."
+        //         //         },
+        //         //         {
+        //         //             "word": "Opportunity",
+        //         //             "translation": "فرصة",
+        //         //             "example": "This job is a great opportunity for growth."
+        //         //         },
+        //         //         {
+        //         //             "word": "Responsible",
+        //         //             "translation": "مسؤول",
+        //         //             "example": "He is responsible for the whole project."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Environment",
+        //         //             "definition": "مصطلح متعلق بموضوع الاستفسار السياحي يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "البيئة",
+        //         //             "example": "Protecting the environment is important."
+        //         //         },
+        //         //         {
+        //         //             "term": "Opportunity",
+        //         //             "definition": "مفهوم أساسي ضمن درس الاستفسار السياحي يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "فرصة",
+        //         //             "example": "This job is a great opportunity for growth."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'الاستفسار السياحي' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الاستفسار السياحي'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'الاستفسار السياحي'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الاستفسار السياحي'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 5,
+        //         //     "title": "المحاضرة 5: الطوارئ أثناء السفر",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"الطوارئ أثناء السفر\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture5/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Communicate",
+        //         //             "translation": "يتواصل",
+        //         //             "example": "It's important to communicate clearly."
+        //         //         },
+        //         //         {
+        //         //             "word": "Improve",
+        //         //             "translation": "يُحسّن",
+        //         //             "example": "Practice will improve your skills."
+        //         //         },
+        //         //         {
+        //         //             "word": "Confidence",
+        //         //             "translation": "الثقة",
+        //         //             "example": "Confidence comes with practice."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "استمع للنطق الصحيح قبل التكرار.",
+        //         //         "راجع المحتوى بشكل دوري لتثبيت المعلومة."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Communicate",
+        //         //             "definition": "مصطلح متعلق بموضوع الطوارئ أثناء السفر يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "يتواصل",
+        //         //             "example": "It's important to communicate clearly."
+        //         //         },
+        //         //         {
+        //         //             "term": "Improve",
+        //         //             "definition": "مفهوم أساسي ضمن درس الطوارئ أثناء السفر يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "يُحسّن",
+        //         //             "example": "Practice will improve your skills."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'الطوارئ أثناء السفر' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الطوارئ أثناء السفر'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'الطوارئ أثناء السفر'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الطوارئ أثناء السفر'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 6,
+        //         //     "title": "المحاضرة 6: الجمارك والهجرة",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"الجمارك والهجرة\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture6/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Schedule",
+        //         //             "translation": "جدول زمني",
+        //         //             "example": "Please check the schedule for the meeting."
+        //         //         },
+        //         //         {
+        //         //             "word": "Negotiate",
+        //         //             "translation": "يتفاوض",
+        //         //             "example": "They negotiated a better price."
+        //         //         },
+        //         //         {
+        //         //             "word": "Essential",
+        //         //             "translation": "ضروري",
+        //         //             "example": "Water is essential for life."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "راجع المحتوى بشكل دوري لتثبيت المعلومة.",
+        //         //         "لا تخف من ارتكاب الأخطاء أثناء التدرب."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Schedule",
+        //         //             "definition": "مصطلح متعلق بموضوع الجمارك والهجرة يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "جدول زمني",
+        //         //             "example": "Please check the schedule for the meeting."
+        //         //         },
+        //         //         {
+        //         //             "term": "Negotiate",
+        //         //             "definition": "مفهوم أساسي ضمن درس الجمارك والهجرة يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "يتفاوض",
+        //         //             "example": "They negotiated a better price."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'الجمارك والهجرة' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الجمارك والهجرة'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'الجمارك والهجرة'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الجمارك والهجرة'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 7,
+        //         //     "title": "المحاضرة 7: استئجار سيارة",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"استئجار سيارة\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture7/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Deadline",
+        //         //             "translation": "الموعد النهائي",
+        //         //             "example": "The deadline for the report is Friday."
+        //         //         },
+        //         //         {
+        //         //             "word": "Efficient",
+        //         //             "translation": "فعّال / كفؤ",
+        //         //             "example": "This method is more efficient."
+        //         //         },
+        //         //         {
+        //         //             "word": "Destination",
+        //         //             "translation": "الوجهة",
+        //         //             "example": "Paris is a popular travel destination."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "لا تخف من ارتكاب الأخطاء أثناء التدرب.",
+        //         //         "افهم القاعدة أولاً قبل حفظ الأمثلة."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Deadline",
+        //         //             "definition": "مصطلح متعلق بموضوع استئجار سيارة يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "الموعد النهائي",
+        //         //             "example": "The deadline for the report is Friday."
+        //         //         },
+        //         //         {
+        //         //             "term": "Efficient",
+        //         //             "definition": "مفهوم أساسي ضمن درس استئجار سيارة يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "فعّال / كفؤ",
+        //         //             "example": "This method is more efficient."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'استئجار سيارة' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'استئجار سيارة'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'استئجار سيارة'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'استئجار سيارة'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 8,
+        //         //     "title": "المحاضرة 8: مراجعة السفر",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"مراجعة السفر\" ضمن قسم \"السفر والسياحة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section7_lecture8/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Reservation",
+        //         //             "translation": "حجز",
+        //         //             "example": "I made a reservation for two people."
+        //         //         },
+        //         //         {
+        //         //             "word": "Currency",
+        //         //             "translation": "العملة",
+        //         //             "example": "The local currency is the euro."
+        //         //         },
+        //         //         {
+        //         //             "word": "Achieve",
+        //         //             "translation": "يحقق / ينجز",
+        //         //             "example": "She worked hard to achieve her goals."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Reservation",
+        //         //             "definition": "مصطلح متعلق بموضوع مراجعة السفر يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "حجز",
+        //         //             "example": "I made a reservation for two people."
+        //         //         },
+        //         //         {
+        //         //             "term": "Currency",
+        //         //             "definition": "مفهوم أساسي ضمن درس مراجعة السفر يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "العملة",
+        //         //             "example": "The local currency is the euro."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'مراجعة السفر' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مراجعة السفر'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'مراجعة السفر'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مراجعة السفر'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // }
+        //     ]
+        // },
+        // {
+        //     "id": 8,
+        //     "key": "section8",
+        //     "title": "اقتصاديات السياحة",
+        //     "icon": "fa-solid fa-sack-dollar",
+        //     "lectures": [
+        //         // {
+        //         //     "id": 1,
+        //         //     "title": "المحاضرة 1: المرادفات والأضداد",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"المرادفات والأضداد\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture1/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Currency",
+        //         //             "translation": "العملة",
+        //         //             "example": "The local currency is the euro."
+        //         //         },
+        //         //         {
+        //         //             "word": "Achieve",
+        //         //             "translation": "يحقق / ينجز",
+        //         //             "example": "She worked hard to achieve her goals."
+        //         //         },
+        //         //         {
+        //         //             "word": "Environment",
+        //         //             "translation": "البيئة",
+        //         //             "example": "Protecting the environment is important."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "لا تخف من ارتكاب الأخطاء أثناء التدرب.",
+        //         //         "افهم القاعدة أولاً قبل حفظ الأمثلة."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Currency",
+        //         //             "definition": "مصطلح متعلق بموضوع المرادفات والأضداد يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "العملة",
+        //         //             "example": "The local currency is the euro."
+        //         //         },
+        //         //         {
+        //         //             "term": "Achieve",
+        //         //             "definition": "مفهوم أساسي ضمن درس المرادفات والأضداد يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "يحقق / ينجز",
+        //         //             "example": "She worked hard to achieve her goals."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'المرادفات والأضداد' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'المرادفات والأضداد'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'المرادفات والأضداد'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'المرادفات والأضداد'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 2,
+        //         //     "title": "المحاضرة 2: المفردات الأكاديمية",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"المفردات الأكاديمية\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture2/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Opportunity",
+        //         //             "translation": "فرصة",
+        //         //             "example": "This job is a great opportunity for growth."
+        //         //         },
+        //         //         {
+        //         //             "word": "Responsible",
+        //         //             "translation": "مسؤول",
+        //         //             "example": "He is responsible for the whole project."
+        //         //         },
+        //         //         {
+        //         //             "word": "Communicate",
+        //         //             "translation": "يتواصل",
+        //         //             "example": "It's important to communicate clearly."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "افهم القاعدة أولاً قبل حفظ الأمثلة.",
+        //         //         "مارس المفردات الجديدة في جمل من إنشائك."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Opportunity",
+        //         //             "definition": "مصطلح متعلق بموضوع المفردات الأكاديمية يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "فرصة",
+        //         //             "example": "This job is a great opportunity for growth."
+        //         //         },
+        //         //         {
+        //         //             "term": "Responsible",
+        //         //             "definition": "مفهوم أساسي ضمن درس المفردات الأكاديمية يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "مسؤول",
+        //         //             "example": "He is responsible for the whole project."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'المفردات الأكاديمية' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'المفردات الأكاديمية'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'المفردات الأكاديمية'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'المفردات الأكاديمية'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 3,
+        //         //     "title": "المحاضرة 3: التعبيرات الاصطلاحية",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"التعبيرات الاصطلاحية\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture3/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Improve",
+        //         //             "translation": "يُحسّن",
+        //         //             "example": "Practice will improve your skills."
+        //         //         },
+        //         //         {
+        //         //             "word": "Confidence",
+        //         //             "translation": "الثقة",
+        //         //             "example": "Confidence comes with practice."
+        //         //         },
+        //         //         {
+        //         //             "word": "Schedule",
+        //         //             "translation": "جدول زمني",
+        //         //             "example": "Please check the schedule for the meeting."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "مارس المفردات الجديدة في جمل من إنشائك.",
+        //         //         "استمع للنطق الصحيح قبل التكرار."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Improve",
+        //         //             "definition": "مصطلح متعلق بموضوع التعبيرات الاصطلاحية يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "يُحسّن",
+        //         //             "example": "Practice will improve your skills."
+        //         //         },
+        //         //         {
+        //         //             "term": "Confidence",
+        //         //             "definition": "مفهوم أساسي ضمن درس التعبيرات الاصطلاحية يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "الثقة",
+        //         //             "example": "Confidence comes with practice."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'التعبيرات الاصطلاحية' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'التعبيرات الاصطلاحية'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'التعبيرات الاصطلاحية'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'التعبيرات الاصطلاحية'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 4,
+        //         //     "title": "المحاضرة 4: الأفعال المركبة",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"الأفعال المركبة\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture4/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Negotiate",
+        //         //             "translation": "يتفاوض",
+        //         //             "example": "They negotiated a better price."
+        //         //         },
+        //         //         {
+        //         //             "word": "Essential",
+        //         //             "translation": "ضروري",
+        //         //             "example": "Water is essential for life."
+        //         //         },
+        //         //         {
+        //         //             "word": "Deadline",
+        //         //             "translation": "الموعد النهائي",
+        //         //             "example": "The deadline for the report is Friday."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Negotiate",
+        //         //             "definition": "مصطلح متعلق بموضوع الأفعال المركبة يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "يتفاوض",
+        //         //             "example": "They negotiated a better price."
+        //         //         },
+        //         //         {
+        //         //             "term": "Essential",
+        //         //             "definition": "مفهوم أساسي ضمن درس الأفعال المركبة يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "ضروري",
+        //         //             "example": "Water is essential for life."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'الأفعال المركبة' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الأفعال المركبة'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'الأفعال المركبة'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الأفعال المركبة'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 5,
+        //         //     "title": "المحاضرة 5: مفردات التكنولوجيا",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"مفردات التكنولوجيا\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture5/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Efficient",
+        //         //             "translation": "فعّال / كفؤ",
+        //         //             "example": "This method is more efficient."
+        //         //         },
+        //         //         {
+        //         //             "word": "Destination",
+        //         //             "translation": "الوجهة",
+        //         //             "example": "Paris is a popular travel destination."
+        //         //         },
+        //         //         {
+        //         //             "word": "Reservation",
+        //         //             "translation": "حجز",
+        //         //             "example": "I made a reservation for two people."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "راجع المحتوى بشكل دوري لتثبيت المعلومة.",
+        //         //         "لا تخف من ارتكاب الأخطاء أثناء التدرب."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Efficient",
+        //         //             "definition": "مصطلح متعلق بموضوع مفردات التكنولوجيا يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "فعّال / كفؤ",
+        //         //             "example": "This method is more efficient."
+        //         //         },
+        //         //         {
+        //         //             "term": "Destination",
+        //         //             "definition": "مفهوم أساسي ضمن درس مفردات التكنولوجيا يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "الوجهة",
+        //         //             "example": "Paris is a popular travel destination."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'مفردات التكنولوجيا' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مفردات التكنولوجيا'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'مفردات التكنولوجيا'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مفردات التكنولوجيا'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 6,
+        //         //     "title": "المحاضرة 6: مفردات البيئة",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"مفردات البيئة\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture6/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Currency",
+        //         //             "translation": "العملة",
+        //         //             "example": "The local currency is the euro."
+        //         //         },
+        //         //         {
+        //         //             "word": "Achieve",
+        //         //             "translation": "يحقق / ينجز",
+        //         //             "example": "She worked hard to achieve her goals."
+        //         //         },
+        //         //         {
+        //         //             "word": "Environment",
+        //         //             "translation": "البيئة",
+        //         //             "example": "Protecting the environment is important."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "لا تخف من ارتكاب الأخطاء أثناء التدرب.",
+        //         //         "افهم القاعدة أولاً قبل حفظ الأمثلة."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Currency",
+        //         //             "definition": "مصطلح متعلق بموضوع مفردات البيئة يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "العملة",
+        //         //             "example": "The local currency is the euro."
+        //         //         },
+        //         //         {
+        //         //             "term": "Achieve",
+        //         //             "definition": "مفهوم أساسي ضمن درس مفردات البيئة يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "يحقق / ينجز",
+        //         //             "example": "She worked hard to achieve her goals."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'مفردات البيئة' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مفردات البيئة'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'مفردات البيئة'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مفردات البيئة'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 7,
+        //         //     "title": "المحاضرة 7: مفردات الاقتصاد",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"مفردات الاقتصاد\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture7/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Opportunity",
+        //         //             "translation": "فرصة",
+        //         //             "example": "This job is a great opportunity for growth."
+        //         //         },
+        //         //         {
+        //         //             "word": "Responsible",
+        //         //             "translation": "مسؤول",
+        //         //             "example": "He is responsible for the whole project."
+        //         //         },
+        //         //         {
+        //         //             "word": "Communicate",
+        //         //             "translation": "يتواصل",
+        //         //             "example": "It's important to communicate clearly."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [
+        //         //         "افهم القاعدة أولاً قبل حفظ الأمثلة.",
+        //         //         "مارس المفردات الجديدة في جمل من إنشائك."
+        //         //     ],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Opportunity",
+        //         //             "definition": "مصطلح متعلق بموضوع مفردات الاقتصاد يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "فرصة",
+        //         //             "example": "This job is a great opportunity for growth."
+        //         //         },
+        //         //         {
+        //         //             "term": "Responsible",
+        //         //             "definition": "مفهوم أساسي ضمن درس مفردات الاقتصاد يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "مسؤول",
+        //         //             "example": "He is responsible for the whole project."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'مفردات الاقتصاد' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مفردات الاقتصاد'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'مفردات الاقتصاد'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مفردات الاقتصاد'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // },
+        //         // {
+        //         //     "id": 8,
+        //         //     "title": "المحاضرة 8: مراجعة المفردات",
+        //         //     "content": "في هذه المحاضرة سنتناول موضوع \"مراجعة المفردات\" ضمن قسم \"تطوير المفردات\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+        //         //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section8_lecture8/view",
+        //         //     "vocabulary": [
+        //         //         {
+        //         //             "word": "Improve",
+        //         //             "translation": "يُحسّن",
+        //         //             "example": "Practice will improve your skills."
+        //         //         },
+        //         //         {
+        //         //             "word": "Confidence",
+        //         //             "translation": "الثقة",
+        //         //             "example": "Confidence comes with practice."
+        //         //         },
+        //         //         {
+        //         //             "word": "Schedule",
+        //         //             "translation": "جدول زمني",
+        //         //             "example": "Please check the schedule for the meeting."
+        //         //         }
+        //         //     ],
+        //         //     "importantPoints": [],
+        //         //     "flashcards": [
+        //         //         {
+        //         //             "term": "Improve",
+        //         //             "definition": "مصطلح متعلق بموضوع مراجعة المفردات يُستخدم في السياقات التعليمية والعملية.",
+        //         //             "translation": "يُحسّن",
+        //         //             "example": "Practice will improve your skills."
+        //         //         },
+        //         //         {
+        //         //             "term": "Confidence",
+        //         //             "definition": "مفهوم أساسي ضمن درس مراجعة المفردات يساعد على الفهم العميق للموضوع.",
+        //         //             "translation": "الثقة",
+        //         //             "example": "Confidence comes with practice."
+        //         //         }
+        //         //     ],
+        //         //     "quiz": [
+        //         //         {
+        //         //             "question": "ما هو المعنى الأصح لموضوع 'مراجعة المفردات' في هذا الدرس؟",
+        //         //             "options": [
+        //         //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
+        //         //                 "إجابة غير مرتبطة بالموضوع",
+        //         //                 "إجابة عامة غير دقيقة",
+        //         //                 "لا شيء مما سبق"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مراجعة المفردات'؟",
+        //         //             "options": [
+        //         //                 "الاستخدام الصحيح كما ورد في الشرح",
+        //         //                 "استخدام خاطئ شائع",
+        //         //                 "استخدام قديم غير مستعمل",
+        //         //                 "استخدام غير مرتبط"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "عند التطبيق العملي لدرس 'مراجعة المفردات'، ماذا يجب أن تفعل أولاً؟",
+        //         //             "options": [
+        //         //                 "اتباع الخطوات كما وردت في الدرس",
+        //         //                 "تجاهل القاعدة الأساسية",
+        //         //                 "البدء بدون فهم الأساسيات",
+        //         //                 "حفظ الأمثلة فقط دون فهم"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         },
+        //         //         {
+        //         //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مراجعة المفردات'؟",
+        //         //             "options": [
+        //         //                 "الجملة التي تطبق القاعدة بشكل صحيح",
+        //         //                 "جملة تحتوي على خطأ واضح",
+        //         //                 "جملة غير مكتملة",
+        //         //                 "جملة بلغة أخرى تمامًا"
+        //         //             ],
+        //         //             "correct": 0
+        //         //         }
+        //         //     ]
+        //         // }
+        //     ]
+        // }
     ],
     "languages": {
         "id": 9,

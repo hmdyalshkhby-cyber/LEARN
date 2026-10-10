@@ -61,19 +61,28 @@
   <div class="container" style="padding-bottom:100px;" id="lectureShell">
     <div class="lecture-shell">
       <nav class="lecture-tabs" aria-label="أقسام المحاضرة">
-        <button class="lecture-tab-btn active" data-tab="content"><i class="fa-solid fa-file-lines"></i> المحتوى</button>
+        <button class="lecture-tab-btn active" data-tab="quiz"><i class="fa-solid fa-clipboard-question"></i> الاختبار</button>
+        <!-- <button class="lecture-tab-btn active" data-tab="content"><i class="fa-solid fa-file-lines"></i> المحتوى</button> -->
         <button class="lecture-tab-btn" data-tab="vocabulary"><i class="fa-solid fa-spell-check"></i> المفردات</button>
         <button class="lecture-tab-btn" data-tab="points"><i class="fa-solid fa-list-check"></i> أهم النقاط</button>
         <button class="lecture-tab-btn" data-tab="pdf"><i class="fa-solid fa-file-pdf"></i> PDF مترجم</button>
         <button class="lecture-tab-btn" data-tab="flashcards"><i class="fa-solid fa-layer-group"></i> بطاقات تعريفية</button>
-        <button class="lecture-tab-btn" data-tab="quiz"><i class="fa-solid fa-clipboard-question"></i> الاختبار</button>
       </nav>
 
-      <div class="lecture-panels">
+      <!-- <div class="lecture-panels">
         <section class="lecture-panel active" id="tabContentPanel">
           <div class="panel-card">
             <h3><i class="fa-solid fa-file-lines"></i> محتوى المحاضرة</h3>
             <p class="lecture-text-content"></p>
+          </div> -->
+        </section>
+        <section class="lecture-panel active" id="tabQuizPanel">
+          <div class="panel-card" style="text-align:center;">
+            <h3 style="justify-content:center;"><i class="fa-solid fa-clipboard-question"></i> اختبار المحاضرة</h3>
+            <p class="lecture-text-content" style="margin-bottom:22px;">
+              يحتوي هذا الاختبار على <span id="lectureQuizCount">0</span> أسئلة اختيار من متعدد لتقييم فهمك للمحاضرة.
+            </p>
+            <a class="btn btn-accent" id="lectureQuizBtn" href="#"><i class="fa-solid fa-play"></i> ابدأ الاختبار</a>
           </div>
         </section>
 
@@ -117,15 +126,6 @@
           </div>
         </section>
 
-        <section class="lecture-panel" id="tabQuizPanel">
-          <div class="panel-card" style="text-align:center;">
-            <h3 style="justify-content:center;"><i class="fa-solid fa-clipboard-question"></i> اختبار المحاضرة</h3>
-            <p class="lecture-text-content" style="margin-bottom:22px;">
-              يحتوي هذا الاختبار على <span id="lectureQuizCount">0</span> أسئلة اختيار من متعدد لتقييم فهمك للمحاضرة.
-            </p>
-            <a class="btn btn-accent" id="lectureQuizBtn" href="#"><i class="fa-solid fa-play"></i> ابدأ الاختبار</a>
-          </div>
-        </section>
       </div>
     </div>
 

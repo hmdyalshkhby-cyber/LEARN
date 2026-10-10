@@ -107,23 +107,23 @@ function initLecturePage() {
   $("#lectureSub").textContent = section.title;
   setLastVisitedLecture(section.id, lecture.id, section.title, lecture.title);
 
- /* Content handling */
-  const textContentEl = $("#tabContentPanel .lecture-text-content");
+//  /* Content handling */
+//   const textContentEl = $("#tabContentPanel .lecture-text-content");
   
-  if (!lecture.content || lecture.content.trim() === "") {
-    if (textContentEl) {
-      textContentEl.innerHTML = `
-        <div class="no-content-message" style="text-align: center; padding: 40px; color: #6b7280; font-family: 'Cairo', sans-serif;">
-          <i class="fa-solid fa-file-lines" style="font-size: 28px; margin-bottom: 10px; display: block; color: #9ca3af;"></i>
-          <p style="font-size: 16px; font-weight: 600;">لا يوجد محتوى متاح لهذه المحاضرة حالياً</p>
-        </div>
-      `;
-    }
-  } else {
-    if (textContentEl) {
-      textContentEl.textContent = lecture.content;
-    }
-  }
+//   if (!lecture.content || lecture.content.trim() === "") {
+//     if (textContentEl) {
+//       textContentEl.innerHTML = `
+//         <div class="no-content-message" style="text-align: center; padding: 40px; color: #6b7280; font-family: 'Cairo', sans-serif;">
+//           <i class="fa-solid fa-file-lines" style="font-size: 28px; margin-bottom: 10px; display: block; color: #9ca3af;"></i>
+//           <p style="font-size: 16px; font-weight: 600;">لا يوجد محتوى متاح لهذه المحاضرة حالياً</p>
+//         </div>
+//       `;
+//     }
+//   } else {
+//     if (textContentEl) {
+//       textContentEl.textContent = lecture.content;
+//     }
+//   }
  /* PDF handling */
   const pdfOpenBtn = $("#pdfOpenBtn");
   
